@@ -16,7 +16,6 @@ dist/
 build/
 
 # Ignore data files
-# *.csv
 # *.pkl
 # *.joblib
 
