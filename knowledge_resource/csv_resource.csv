@@ -1,0 +1,1001 @@
+transaction_id,time_stamp,status,channel,payment_method,cust_location,item_type,quantity,price_per_unit,total_revenue
+TRX001,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Tangerang,100ml,5,20897,3832
+TRX002,2023-06-06 17:02:28.668535,success,langsung,QRIS,Prabumulih,100ml,6,22782,3832
+TRX003,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Prabumulih,250ml,10,17711,14239
+TRX004,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Tangerang,250ml,7,23815,15383
+TRX005,2023-06-21 12:06:02.303253,success,distributor,QRIS,Tangerang,100ml,5,90738,6498
+TRX006,2023-11-15 18:28:58.056173,success,distributor,Transfer,Surabaya,1000ml,10,100000,14046
+TRX007,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Serang,250ml,10,26087,18722
+TRX008,2023-11-15 18:28:58.056173,success,ecommerce,Transfer,Tangerang,250ml,10,25651,17708
+TRX009,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Serang,1000ml,9,20738,9062
+TRX010,2023-08-19 10:18:01.475392,success,ecommerce,Credit Card,Serang,100ml,10,43969,15497
+TRX011,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Tangerang,250ml,10,26725,3883
+TRX012,2023-08-19 10:18:01.475392,cancel,distributor,Virtual Account,Pekalongan,1000ml,8,30923,3832
+TRX013,2024-02-14 19:06:26.496695,cancel,langsung,Credit Card,Prabumulih,100ml,8,10000,16205
+TRX014,2023-07-29 02:09:58.408960,success,distributor,Transfer,Prabumulih,100ml,7,26122,9610
+TRX015,2024-02-14 19:06:26.496695,success,distributor,Transfer,Pekalongan,100ml,9,10709,9499
+TRX016,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Surabaya,1000ml,10,100000,13635
+TRX017,2023-08-19 10:18:01.475392,success,ecommerce,QRIS,Bukittinggi,100ml,7,29291,6481
+TRX018,2024-03-01 10:47:58.820632,success,distributor,Transfer,Solok,1000ml,10,100000,15001
+TRX019,2024-03-01 10:47:58.820632,success,langsung,QRIS,Bukittinggi,100ml,7,19749,3832
+TRX020,2023-04-28 01:31:28.210361,cancel,ecommerce,Credit Card,Solok,100ml,10,10000,4645
+TRX021,2023-11-15 18:28:58.056173,success,ecommerce,QRIS,Serang,250ml,7,27964,11141
+TRX022,2024-02-14 19:06:26.496695,success,ecommerce,Transfer,Serang,250ml,10,31423,16649
+TRX023,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Prabumulih,250ml,7,18046,18661
+TRX024,2023-06-21 12:06:02.303253,success,ecommerce,Transfer,Prabumulih,250ml,9,18486,3888
+TRX025,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Palembang,100ml,5,20428,3832
+TRX026,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Prabumulih,250ml,10,23713,20000
+TRX027,2023-04-28 01:31:28.210361,success,distributor,Transfer,Solok,1000ml,10,92813,5895
+TRX028,2024-01-31 22:19:16.234071,success,distributor,Credit Card,Tangerang,250ml,6,30233,20000
+TRX029,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,10,15022,17246
+TRX030,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Solok,1000ml,7,10884,9240
+TRX031,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,7,10292,3832
+TRX032,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Bukittinggi,100ml,6,20236,7469
+TRX033,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Prabumulih,100ml,6,17715,6065
+TRX034,2024-02-14 19:06:26.496695,cancel,distributor,Virtual Account,Bukittinggi,100ml,10,88913,9891
+TRX035,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Metro,250ml,7,25853,7714
+TRX036,2023-06-06 17:02:28.668535,success,distributor,Transfer,Solok,100ml,8,97004,14088
+TRX037,2023-11-15 18:28:58.056173,success,ecommerce,Transfer,Metro,1000ml,7,25520,16329
+TRX038,2024-02-14 19:06:26.496695,success,distributor,Virtual Account,Palembang,250ml,10,27792,8042
+TRX039,2023-07-29 02:09:58.408960,success,distributor,Virtual Account,Pekalongan,1000ml,7,100000,6637
+TRX040,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Tangerang,100ml,8,24142,8746
+TRX041,2023-04-28 01:31:28.210361,success,langsung,Virtual Account,Pekalongan,100ml,7,10000,3832
+TRX042,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Palembang,250ml,7,31777,7558
+TRX043,2024-02-14 19:06:26.496695,success,ecommerce,QRIS,Palembang,250ml,8,26591,6571
+TRX044,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Metro,1000ml,5,29124,7062
+TRX045,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Solok,100ml,6,29319,3832
+TRX046,2023-06-06 17:02:28.668535,success,distributor,QRIS,Prabumulih,1000ml,10,100000,7398
+TRX047,2024-01-31 22:19:16.234071,success,ecommerce,Virtual Account,Pekalongan,100ml,10,17596,15166
+TRX048,2023-11-15 18:28:58.056173,success,ecommerce,QRIS,Bukittinggi,250ml,9,10000,4580
+TRX049,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Surabaya,1000ml,10,22528,12527
+TRX050,2023-08-19 10:18:01.475392,success,distributor,Transfer,Palembang,1000ml,10,83873,19196
+TRX051,2024-03-01 10:47:58.820632,success,distributor,Credit Card,Tangerang,250ml,10,24775,5323
+TRX052,2023-04-28 01:31:28.210361,success,distributor,Transfer,Pekalongan,100ml,9,16449,6870
+TRX053,2024-02-14 19:06:26.496695,success,distributor,Transfer,Solok,1000ml,10,98229,18502
+TRX054,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Solok,250ml,10,23819,8882
+TRX055,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,6,100000,8587
+TRX056,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,10,92293,8767
+TRX057,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,100ml,6,16623,6949
+TRX058,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Serang,250ml,7,33694,12503
+TRX059,2024-01-31 22:19:16.234071,cancel,distributor,Transfer,Bukittinggi,100ml,10,18870,14040
+TRX060,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Palembang,250ml,6,36795,17357
+TRX061,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Tangerang,250ml,8,30759,11367
+TRX062,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Prabumulih,100ml,10,19292,12073
+TRX063,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Bukittinggi,1000ml,6,10000,3832
+TRX064,2024-03-01 10:47:58.820632,success,langsung,QRIS,Metro,1000ml,5,93968,9263
+TRX065,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Prabumulih,1000ml,7,100000,3832
+TRX066,2023-11-15 18:28:58.056173,success,ecommerce,QRIS,Tangerang,250ml,6,29062,3838
+TRX067,2024-01-31 22:19:16.234071,success,ecommerce,Virtual Account,Prabumulih,250ml,5,17733,3832
+TRX068,2023-04-28 01:31:28.210361,cancel,ecommerce,Virtual Account,Palembang,100ml,8,18875,17550
+TRX069,2023-08-19 10:18:01.475392,success,distributor,Transfer,Surabaya,1000ml,8,94726,5078
+TRX070,2023-07-29 02:09:58.408960,cancel,langsung,Virtual Account,Prabumulih,100ml,8,21483,4653
+TRX071,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Serang,250ml,6,17057,8104
+TRX072,2024-02-14 19:06:26.496695,cancel,distributor,Virtual Account,Tangerang,100ml,10,30065,17391
+TRX073,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,8,13062,14035
+TRX074,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Palembang,100ml,6,15480,4264
+TRX075,2023-08-19 10:18:01.475392,success,ecommerce,Virtual Account,Pekalongan,250ml,10,18613,9465
+TRX076,2023-08-19 10:18:01.475392,success,ecommerce,Virtual Account,Prabumulih,100ml,10,25277,12159
+TRX077,2023-04-28 01:31:28.210361,success,langsung,QRIS,Metro,100ml,5,11113,11285
+TRX078,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Surabaya,250ml,10,28179,8742
+TRX079,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Prabumulih,250ml,10,23550,12765
+TRX080,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Bukittinggi,100ml,5,17860,15199
+TRX081,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,100ml,6,25519,14701
+TRX082,2023-04-28 01:31:28.210361,success,distributor,Transfer,Bukittinggi,100ml,9,21675,13946
+TRX083,2023-06-06 17:02:28.668535,success,ecommerce,Credit Card,Palembang,100ml,5,21587,7975
+TRX084,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Palembang,250ml,6,100000,7740
+TRX085,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Palembang,250ml,6,18913,4690
+TRX086,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Prabumulih,250ml,7,23858,12984
+TRX087,2023-08-19 10:18:01.475392,cancel,distributor,Virtual Account,Tangerang,100ml,10,27902,16467
+TRX088,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Prabumulih,1000ml,10,22289,13258
+TRX089,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Serang,250ml,9,41666,17444
+TRX090,2023-04-28 01:31:28.210361,cancel,langsung,Virtual Account,Pekalongan,100ml,6,10000,9350
+TRX091,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Surabaya,100ml,9,33857,14204
+TRX092,2024-02-14 19:06:26.496695,success,distributor,Credit Card,Surabaya,250ml,10,41147,13075
+TRX093,2023-04-28 01:31:28.210361,success,ecommerce,Transfer,Pekalongan,250ml,7,18651,15453
+TRX094,2023-06-21 12:06:02.303253,success,ecommerce,Transfer,Palembang,250ml,9,94502,8157
+TRX095,2023-08-19 10:18:01.475392,success,ecommerce,Credit Card,Surabaya,1000ml,5,29249,9415
+TRX096,2023-06-06 17:02:28.668535,success,ecommerce,Transfer,Metro,1000ml,7,100000,14914
+TRX097,2023-08-19 10:18:01.475392,success,ecommerce,QRIS,Metro,250ml,7,23823,5858
+TRX098,2023-08-19 10:18:01.475392,success,distributor,Transfer,Tangerang,250ml,10,98934,11294
+TRX099,2024-02-14 19:06:26.496695,success,distributor,Transfer,Serang,1000ml,6,98523,8421
+TRX100,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Metro,250ml,10,13588,3832
+TRX101,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Tangerang,250ml,6,22245,3832
+TRX102,2023-07-29 02:09:58.408960,success,distributor,Transfer,Surabaya,250ml,8,100000,3832
+TRX103,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Palembang,100ml,5,22896,3832
+TRX104,2023-06-21 12:06:02.303253,success,distributor,Transfer,Metro,100ml,10,16018,9338
+TRX105,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Metro,250ml,6,32164,6221
+TRX106,2023-06-06 17:02:28.668535,success,distributor,QRIS,Metro,100ml,7,17407,6012
+TRX107,2023-06-21 12:06:02.303253,success,langsung,QRIS,Bukittinggi,250ml,5,38369,3832
+TRX108,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,100ml,5,24267,3832
+TRX109,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Prabumulih,250ml,7,18453,13159
+TRX110,2024-03-01 10:47:58.820632,success,distributor,QRIS,Serang,1000ml,10,31191,11829
+TRX111,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Bukittinggi,250ml,6,24184,5430
+TRX112,2024-02-14 19:06:26.496695,success,distributor,Transfer,Surabaya,100ml,9,29074,12379
+TRX113,2024-02-14 19:06:26.496695,success,langsung,Transfer,Solok,250ml,10,40208,17762
+TRX114,2023-06-21 12:06:02.303253,cancel,distributor,Virtual Account,Solok,100ml,6,23164,14702
+TRX115,2023-08-19 10:18:01.475392,success,distributor,Transfer,Solok,100ml,8,39790,3832
+TRX116,2023-07-29 02:09:58.408960,success,langsung,Credit Card,Bukittinggi,100ml,5,25866,3832
+TRX117,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Bukittinggi,100ml,10,14894,3832
+TRX118,2023-06-06 17:02:28.668535,cancel,distributor,Virtual Account,Solok,1000ml,9,19348,11129
+TRX119,2024-02-14 19:06:26.496695,success,ecommerce,Credit Card,Prabumulih,250ml,7,29993,7835
+TRX120,2024-01-31 22:19:16.234071,cancel,ecommerce,Virtual Account,Solok,1000ml,9,31246,18790
+TRX121,2024-01-31 22:19:16.234071,success,distributor,Credit Card,Tangerang,100ml,8,27831,14152
+TRX122,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,1000ml,7,11762,12811
+TRX123,2024-02-14 19:06:26.496695,success,ecommerce,Virtual Account,Prabumulih,100ml,8,33145,15951
+TRX124,2023-06-06 17:02:28.668535,success,distributor,Virtual Account,Metro,1000ml,9,96484,3832
+TRX125,2023-11-15 18:28:58.056173,cancel,ecommerce,Credit Card,Palembang,100ml,8,13886,13208
+TRX126,2023-11-15 18:28:58.056173,success,ecommerce,QRIS,Palembang,250ml,8,100000,16481
+TRX127,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Bukittinggi,1000ml,6,75548,5396
+TRX128,2024-03-01 10:47:58.820632,success,langsung,Transfer,Metro,100ml,9,20742,10259
+TRX129,2023-06-21 12:06:02.303253,success,distributor,Virtual Account,Serang,100ml,10,10000,7923
+TRX130,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Pekalongan,100ml,8,11210,13516
+TRX131,2024-02-14 19:06:26.496695,success,langsung,QRIS,Bukittinggi,250ml,6,19621,14125
+TRX132,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,10,15158,8159
+TRX133,2024-03-01 10:47:58.820632,success,langsung,Credit Card,Solok,100ml,7,27260,15082
+TRX134,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,10,100000,7753
+TRX135,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Tangerang,100ml,8,13018,4310
+TRX136,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Serang,250ml,7,19944,6045
+TRX137,2023-08-19 10:18:01.475392,success,ecommerce,QRIS,Palembang,100ml,6,17834,8652
+TRX138,2023-04-28 01:31:28.210361,success,langsung,Virtual Account,Pekalongan,100ml,7,19675,11723
+TRX139,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,10,19725,12014
+TRX140,2023-07-29 02:09:58.408960,success,langsung,Transfer,Metro,1000ml,5,10000,3832
+TRX141,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Serang,250ml,7,35197,8052
+TRX142,2023-06-21 12:06:02.303253,success,distributor,Transfer,Pekalongan,100ml,7,26853,6075
+TRX143,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Bukittinggi,250ml,6,24023,3832
+TRX144,2023-08-19 10:18:01.475392,success,ecommerce,Virtual Account,Metro,100ml,7,33791,7454
+TRX145,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Prabumulih,250ml,10,30532,7810
+TRX146,2024-02-14 19:06:26.496695,success,distributor,Transfer,Surabaya,250ml,10,40508,4702
+TRX147,2024-03-01 10:47:58.820632,success,ecommerce,Transfer,Solok,1000ml,5,16222,4558
+TRX148,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,10,10000,14654
+TRX149,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,10,10000,14684
+TRX150,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,9,100000,16873
+TRX151,2024-02-14 19:06:26.496695,success,langsung,Transfer,Metro,1000ml,6,10000,6927
+TRX152,2023-06-06 17:02:28.668535,success,distributor,Transfer,Bukittinggi,1000ml,9,100000,5394
+TRX153,2024-02-14 19:06:26.496695,success,distributor,Transfer,Palembang,250ml,10,28644,6699
+TRX154,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Surabaya,100ml,10,15209,17881
+TRX155,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Metro,1000ml,6,24973,3832
+TRX156,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Tangerang,250ml,5,43397,4949
+TRX157,2023-06-06 17:02:28.668535,success,ecommerce,QRIS,Prabumulih,100ml,6,35348,9257
+TRX158,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,9,100000,8678
+TRX159,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Bukittinggi,250ml,6,29301,3832
+TRX160,2023-06-21 12:06:02.303253,success,langsung,QRIS,Bukittinggi,250ml,6,38719,4016
+TRX161,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Bukittinggi,100ml,6,17576,12462
+TRX162,2023-06-21 12:06:02.303253,success,langsung,Credit Card,Prabumulih,100ml,10,10000,6606
+TRX163,2024-02-14 19:06:26.496695,cancel,distributor,Virtual Account,Tangerang,100ml,9,90487,10001
+TRX164,2023-08-19 10:18:01.475392,success,ecommerce,Credit Card,Metro,100ml,9,91082,15865
+TRX165,2024-03-01 10:47:58.820632,success,ecommerce,Transfer,Serang,250ml,9,26429,14584
+TRX166,2023-08-19 10:18:01.475392,success,distributor,Transfer,Metro,1000ml,5,100000,6358
+TRX167,2024-01-31 22:19:16.234071,success,distributor,Transfer,Serang,100ml,9,18441,13561
+TRX168,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Prabumulih,100ml,6,25700,3832
+TRX169,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,10,98914,6900
+TRX170,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Pekalongan,250ml,9,10000,13542
+TRX171,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Metro,250ml,7,37486,8091
+TRX172,2023-04-28 01:31:28.210361,success,ecommerce,Transfer,Surabaya,100ml,10,10000,14698
+TRX173,2023-08-19 10:18:01.475392,success,langsung,QRIS,Metro,100ml,5,14744,5700
+TRX174,2023-08-19 10:18:01.475392,success,ecommerce,QRIS,Bukittinggi,100ml,7,78021,8406
+TRX175,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Prabumulih,250ml,5,22123,7738
+TRX176,2023-06-06 17:02:28.668535,success,ecommerce,Transfer,Surabaya,1000ml,7,100000,7546
+TRX177,2023-06-06 17:02:28.668535,success,ecommerce,Credit Card,Surabaya,250ml,10,100000,3832
+TRX178,2023-07-29 02:09:58.408960,success,distributor,QRIS,Bukittinggi,1000ml,7,100000,3832
+TRX179,2023-08-19 10:18:01.475392,success,distributor,Transfer,Metro,1000ml,10,21962,6807
+TRX180,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Pekalongan,250ml,8,17770,16725
+TRX181,2023-08-19 10:18:01.475392,cancel,langsung,QRIS,Bukittinggi,100ml,6,18568,3832
+TRX182,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Prabumulih,250ml,6,29171,16033
+TRX183,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Solok,100ml,5,22324,9520
+TRX184,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Metro,250ml,10,35960,13860
+TRX185,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Palembang,100ml,5,10000,9557
+TRX186,2023-11-15 18:28:58.056173,success,distributor,Virtual Account,Serang,1000ml,10,94364,18503
+TRX187,2023-08-19 10:18:01.475392,success,ecommerce,QRIS,Palembang,250ml,7,100000,11632
+TRX188,2023-11-15 18:28:58.056173,success,distributor,Transfer,Pekalongan,100ml,10,22376,10630
+TRX189,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Bukittinggi,100ml,5,28394,11462
+TRX190,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Bukittinggi,250ml,5,21800,4719
+TRX191,2023-08-19 10:18:01.475392,success,langsung,QRIS,Serang,1000ml,6,100000,4149
+TRX192,2023-07-29 02:09:58.408960,success,langsung,Credit Card,Bukittinggi,100ml,6,18671,3832
+TRX193,2024-02-14 19:06:26.496695,success,distributor,Transfer,Surabaya,1000ml,7,80724,4005
+TRX194,2024-01-31 22:19:16.234071,success,distributor,QRIS,Prabumulih,100ml,9,11709,6775
+TRX195,2024-02-14 19:06:26.496695,success,distributor,Transfer,Tangerang,1000ml,10,10000,14122
+TRX196,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Bukittinggi,100ml,7,10000,3888
+TRX197,2023-11-15 18:28:58.056173,success,distributor,Transfer,Tangerang,1000ml,10,32249,13216
+TRX198,2023-06-06 17:02:28.668535,success,ecommerce,Transfer,Prabumulih,1000ml,9,95046,3832
+TRX199,2024-01-31 22:19:16.234071,success,langsung,Virtual Account,Bukittinggi,100ml,8,10000,12766
+TRX200,2023-06-06 17:02:28.668535,success,distributor,Transfer,Solok,1000ml,10,25019,16262
+TRX201,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Serang,1000ml,7,26728,3832
+TRX202,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Serang,100ml,5,21055,5794
+TRX203,2023-04-28 01:31:28.210361,success,ecommerce,QRIS,Prabumulih,100ml,10,10000,14128
+TRX204,2023-06-06 17:02:28.668535,success,distributor,Transfer,Prabumulih,1000ml,6,100000,3832
+TRX205,2023-08-19 10:18:01.475392,success,distributor,Credit Card,Palembang,100ml,9,10000,15615
+TRX206,2023-08-19 10:18:01.475392,success,ecommerce,Credit Card,Prabumulih,250ml,5,37030,5210
+TRX207,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,9,15352,17249
+TRX208,2023-11-15 18:28:58.056173,success,distributor,Virtual Account,Solok,100ml,10,15389,9750
+TRX209,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Bukittinggi,100ml,5,10000,3832
+TRX210,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Prabumulih,100ml,8,30447,15231
+TRX211,2023-06-06 17:02:28.668535,success,langsung,QRIS,Bukittinggi,100ml,5,18253,3832
+TRX212,2023-07-29 02:09:58.408960,success,distributor,QRIS,Solok,100ml,10,20065,10615
+TRX213,2023-07-29 02:09:58.408960,success,distributor,Virtual Account,Serang,100ml,8,29035,10729
+TRX214,2023-06-21 12:06:02.303253,success,langsung,QRIS,Prabumulih,100ml,7,32973,6655
+TRX215,2023-08-19 10:18:01.475392,success,distributor,Transfer,Surabaya,100ml,7,91407,8503
+TRX216,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,8,12229,9687
+TRX217,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,9,10527,16578
+TRX218,2023-08-19 10:18:01.475392,success,distributor,QRIS,Metro,1000ml,6,10000,8003
+TRX219,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Serang,250ml,6,40284,8757
+TRX220,2023-06-06 17:02:28.668535,success,ecommerce,Transfer,Tangerang,1000ml,10,35870,8004
+TRX221,2023-08-19 10:18:01.475392,success,ecommerce,QRIS,Surabaya,1000ml,10,100000,12630
+TRX222,2023-04-28 01:31:28.210361,cancel,distributor,Transfer,Pekalongan,100ml,8,19771,3832
+TRX223,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Prabumulih,100ml,5,39953,10562
+TRX224,2023-06-06 17:02:28.668535,success,ecommerce,Transfer,Tangerang,1000ml,9,100000,6487
+TRX225,2023-06-21 12:06:02.303253,success,ecommerce,Virtual Account,Metro,1000ml,8,21992,17746
+TRX226,2023-07-29 02:09:58.408960,success,distributor,QRIS,Surabaya,100ml,5,10350,10718
+TRX227,2023-06-21 12:06:02.303253,success,distributor,Transfer,Palembang,100ml,10,93075,8630
+TRX228,2023-11-15 18:28:58.056173,cancel,distributor,QRIS,Prabumulih,100ml,8,16871,15154
+TRX229,2023-04-28 01:31:28.210361,success,langsung,Credit Card,Solok,100ml,10,12927,10608
+TRX230,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,100ml,6,10000,3832
+TRX231,2023-07-29 02:09:58.408960,success,langsung,Transfer,Prabumulih,250ml,6,34913,12642
+TRX232,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Pekalongan,100ml,6,10484,16337
+TRX233,2023-06-06 17:02:28.668535,success,distributor,Transfer,Tangerang,1000ml,9,31550,3832
+TRX234,2023-04-28 01:31:28.210361,cancel,distributor,Transfer,Surabaya,1000ml,10,100000,3832
+TRX235,2023-08-19 10:18:01.475392,success,ecommerce,Credit Card,Metro,250ml,6,100000,7137
+TRX236,2024-02-14 19:06:26.496695,success,langsung,Transfer,Palembang,250ml,7,25814,5587
+TRX237,2023-11-15 18:28:58.056173,success,distributor,QRIS,Surabaya,1000ml,10,33678,7894
+TRX238,2023-04-28 01:31:28.210361,cancel,distributor,Transfer,Solok,100ml,8,25991,13897
+TRX239,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Palembang,100ml,6,27465,17580
+TRX240,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Palembang,100ml,5,10000,9348
+TRX241,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Bukittinggi,100ml,9,21046,3832
+TRX242,2024-03-01 10:47:58.820632,success,distributor,Credit Card,Palembang,100ml,9,25359,16974
+TRX243,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Tangerang,1000ml,6,24978,3832
+TRX244,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Prabumulih,250ml,6,38062,6058
+TRX245,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,9,100000,10061
+TRX246,2024-03-01 10:47:58.820632,success,distributor,Transfer,Metro,1000ml,5,100000,3832
+TRX247,2023-11-15 18:28:58.056173,success,langsung,QRIS,Bukittinggi,100ml,5,15961,13155
+TRX248,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Tangerang,100ml,6,35812,7987
+TRX249,2024-01-31 22:19:16.234071,success,ecommerce,Transfer,Tangerang,250ml,7,28404,14742
+TRX250,2023-06-06 17:02:28.668535,success,distributor,Transfer,Metro,250ml,10,100000,6266
+TRX251,2023-06-06 17:02:28.668535,success,distributor,Transfer,Solok,250ml,7,100000,12611
+TRX252,2024-02-14 19:06:26.496695,success,distributor,Transfer,Solok,1000ml,6,26073,8207
+TRX253,2023-08-19 10:18:01.475392,success,ecommerce,Transfer,Metro,250ml,10,19152,16856
+TRX254,2023-08-19 10:18:01.475392,success,ecommerce,Credit Card,Tangerang,250ml,6,100000,18346
+TRX255,2023-08-19 10:18:01.475392,success,ecommerce,Credit Card,Palembang,100ml,7,18260,12239
+TRX256,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Prabumulih,250ml,7,33689,12400
+TRX257,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Bukittinggi,100ml,7,28082,15745
+TRX258,2024-01-31 22:19:16.234071,success,langsung,Credit Card,Bukittinggi,250ml,5,20907,3832
+TRX259,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Metro,1000ml,7,100000,4396
+TRX260,2024-03-01 10:47:58.820632,success,distributor,Transfer,Solok,100ml,9,10000,7291
+TRX261,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,9,10000,10512
+TRX262,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,10,100000,3832
+TRX263,2023-08-19 10:18:01.475392,cancel,distributor,Virtual Account,Pekalongan,250ml,10,21868,6503
+TRX264,2024-02-14 19:06:26.496695,success,distributor,QRIS,Solok,1000ml,10,100000,8525
+TRX265,2023-07-29 02:09:58.408960,success,distributor,QRIS,Bukittinggi,100ml,9,85737,3832
+TRX266,2024-01-31 22:19:16.234071,success,distributor,Transfer,Pekalongan,100ml,8,85271,8844
+TRX267,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Tangerang,250ml,6,39799,4341
+TRX268,2023-06-06 17:02:28.668535,cancel,distributor,Transfer,Solok,250ml,10,32890,10697
+TRX269,2023-11-15 18:28:58.056173,success,distributor,Credit Card,Metro,100ml,8,100000,13390
+TRX270,2024-02-14 19:06:26.496695,success,distributor,Transfer,Tangerang,1000ml,10,24805,8367
+TRX271,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Palembang,100ml,5,22969,3832
+TRX272,2023-06-06 17:02:28.668535,success,distributor,Transfer,Serang,250ml,10,38854,8964
+TRX273,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Pekalongan,100ml,9,22457,18084
+TRX274,2024-03-01 10:47:58.820632,success,ecommerce,Transfer,Metro,1000ml,6,92339,6888
+TRX275,2024-01-31 22:19:16.234071,success,langsung,Transfer,Bukittinggi,100ml,7,16678,6175
+TRX276,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,8,100000,9176
+TRX277,2023-04-28 01:31:28.210361,success,ecommerce,Credit Card,Solok,100ml,6,14809,9394
+TRX278,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Surabaya,100ml,8,27886,11696
+TRX279,2023-08-19 10:18:01.475392,success,ecommerce,Transfer,Solok,250ml,9,100000,3832
+TRX280,2023-11-15 18:28:58.056173,success,ecommerce,Transfer,Metro,100ml,6,100000,3832
+TRX281,2023-06-06 17:02:28.668535,success,distributor,QRIS,Surabaya,1000ml,6,100000,16234
+TRX282,2024-03-01 10:47:58.820632,success,distributor,QRIS,Serang,1000ml,6,94676,5787
+TRX283,2023-08-19 10:18:01.475392,success,distributor,Transfer,Surabaya,1000ml,10,100000,9150
+TRX284,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Palembang,250ml,8,26663,20000
+TRX285,2024-01-31 22:19:16.234071,cancel,distributor,Virtual Account,Pekalongan,100ml,8,16124,15203
+TRX286,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Palembang,250ml,7,37489,20000
+TRX287,2024-02-14 19:06:26.496695,cancel,distributor,Transfer,Surabaya,100ml,8,100000,9486
+TRX288,2023-07-29 02:09:58.408960,success,distributor,Transfer,Solok,1000ml,9,22357,9519
+TRX289,2023-11-15 18:28:58.056173,success,ecommerce,Virtual Account,Serang,100ml,6,10000,3832
+TRX290,2023-06-06 17:02:28.668535,success,ecommerce,Credit Card,Solok,250ml,9,26796,14610
+TRX291,2023-06-21 12:06:02.303253,cancel,ecommerce,QRIS,Prabumulih,250ml,6,18141,13519
+TRX292,2024-01-31 22:19:16.234071,success,ecommerce,Virtual Account,Prabumulih,100ml,9,17759,9421
+TRX293,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Palembang,250ml,7,23958,15570
+TRX294,2023-06-06 17:02:28.668535,success,distributor,Transfer,Prabumulih,1000ml,10,24419,4025
+TRX295,2023-07-29 02:09:58.408960,success,distributor,Transfer,Prabumulih,1000ml,6,100000,6679
+TRX296,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,8,10000,14875
+TRX297,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Bukittinggi,250ml,6,25609,11218
+TRX298,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Solok,100ml,6,21866,5326
+TRX299,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Prabumulih,250ml,5,20705,3832
+TRX300,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,1000ml,6,21944,3832
+TRX301,2023-06-06 17:02:28.668535,success,distributor,Transfer,Pekalongan,100ml,9,19987,4728
+TRX302,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Serang,250ml,10,25965,9372
+TRX303,2024-02-14 19:06:26.496695,success,ecommerce,QRIS,Tangerang,100ml,9,19505,8422
+TRX304,2023-08-19 10:18:01.475392,success,distributor,QRIS,Serang,250ml,6,25714,9143
+TRX305,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Serang,250ml,6,21284,15738
+TRX306,2024-01-31 22:19:16.234071,success,distributor,QRIS,Serang,250ml,10,32006,15738
+TRX307,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Bukittinggi,100ml,6,27648,3832
+TRX308,2023-07-29 02:09:58.408960,success,langsung,Credit Card,Bukittinggi,100ml,6,13525,3832
+TRX309,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,8,10657,6678
+TRX310,2023-07-29 02:09:58.408960,success,distributor,QRIS,Solok,100ml,9,13172,3832
+TRX311,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Serang,100ml,10,26382,17414
+TRX312,2024-03-01 10:47:58.820632,success,ecommerce,Transfer,Surabaya,1000ml,9,100000,5501
+TRX313,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Serang,250ml,10,94874,13786
+TRX314,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,7,100000,9367
+TRX315,2024-03-01 10:47:58.820632,success,ecommerce,Transfer,Palembang,250ml,7,100000,12962
+TRX316,2024-03-01 10:47:58.820632,success,langsung,QRIS,Metro,250ml,6,83831,3832
+TRX317,2023-06-21 12:06:02.303253,success,langsung,Credit Card,Serang,100ml,5,17715,11760
+TRX318,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Tangerang,100ml,9,11034,3832
+TRX319,2023-06-06 17:02:28.668535,success,ecommerce,Credit Card,Metro,1000ml,7,23815,8509
+TRX320,2023-11-15 18:28:58.056173,success,langsung,QRIS,Bukittinggi,100ml,9,20272,10260
+TRX321,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Pekalongan,100ml,7,20416,15356
+TRX322,2023-07-29 02:09:58.408960,success,langsung,Credit Card,Bukittinggi,250ml,10,21036,7878
+TRX323,2023-07-29 02:09:58.408960,success,distributor,QRIS,Pekalongan,250ml,9,38232,12497
+TRX324,2023-06-21 12:06:02.303253,success,langsung,QRIS,Metro,250ml,6,100000,3832
+TRX325,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Prabumulih,100ml,8,10000,12622
+TRX326,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,100ml,6,35073,10078
+TRX327,2023-06-06 17:02:28.668535,success,ecommerce,Credit Card,Solok,1000ml,9,100000,9320
+TRX328,2023-06-06 17:02:28.668535,success,distributor,Virtual Account,Pekalongan,1000ml,8,24795,8287
+TRX329,2024-01-31 22:19:16.234071,success,distributor,Virtual Account,Bukittinggi,100ml,9,16215,3832
+TRX330,2023-07-29 02:09:58.408960,success,distributor,QRIS,Metro,250ml,10,33413,10756
+TRX331,2023-08-19 10:18:01.475392,success,ecommerce,QRIS,Tangerang,250ml,10,25242,12821
+TRX332,2024-03-01 10:47:58.820632,success,langsung,QRIS,Tangerang,100ml,5,15722,3832
+TRX333,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Metro,250ml,9,22773,14370
+TRX334,2024-01-31 22:19:16.234071,success,ecommerce,Transfer,Surabaya,1000ml,10,100000,12814
+TRX335,2024-01-31 22:19:16.234071,success,distributor,QRIS,Surabaya,1000ml,10,30963,7882
+TRX336,2024-02-14 19:06:26.496695,success,langsung,QRIS,Prabumulih,100ml,5,12183,10973
+TRX337,2024-01-31 22:19:16.234071,success,distributor,Transfer,Metro,1000ml,8,98511,10320
+TRX338,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Palembang,250ml,9,20783,5025
+TRX339,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Bukittinggi,1000ml,6,24831,5874
+TRX340,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Prabumulih,250ml,9,36260,7459
+TRX341,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,9,21438,10101
+TRX342,2024-03-01 10:47:58.820632,success,distributor,Transfer,Pekalongan,250ml,10,30282,6519
+TRX343,2023-06-21 12:06:02.303253,success,distributor,QRIS,Serang,1000ml,8,21249,14252
+TRX344,2023-08-19 10:18:01.475392,cancel,distributor,Transfer,Pekalongan,100ml,8,35074,8428
+TRX345,2024-03-01 10:47:58.820632,success,langsung,QRIS,Bukittinggi,100ml,7,20536,9654
+TRX346,2023-04-28 01:31:28.210361,cancel,distributor,Transfer,Metro,1000ml,8,32152,7308
+TRX347,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Metro,100ml,6,16368,4690
+TRX348,2023-11-15 18:28:58.056173,success,distributor,Virtual Account,Pekalongan,1000ml,10,14199,12135
+TRX349,2023-06-21 12:06:02.303253,success,ecommerce,Transfer,Palembang,250ml,7,39503,3832
+TRX350,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Tangerang,1000ml,8,12196,9201
+TRX351,2023-07-29 02:09:58.408960,cancel,distributor,QRIS,Surabaya,100ml,5,14610,11449
+TRX352,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,9,100000,8887
+TRX353,2023-07-29 02:09:58.408960,cancel,distributor,QRIS,Solok,100ml,10,10000,13003
+TRX354,2023-06-06 17:02:28.668535,success,distributor,Transfer,Bukittinggi,250ml,10,34621,7670
+TRX355,2023-11-15 18:28:58.056173,success,distributor,Transfer,Metro,1000ml,6,99006,12627
+TRX356,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Bukittinggi,100ml,6,100000,5939
+TRX357,2023-11-15 18:28:58.056173,success,ecommerce,QRIS,Metro,250ml,7,15960,3832
+TRX358,2023-07-29 02:09:58.408960,success,distributor,Transfer,Solok,100ml,9,18884,6501
+TRX359,2023-06-06 17:02:28.668535,success,langsung,QRIS,Surabaya,1000ml,8,86830,3832
+TRX360,2024-03-01 10:47:58.820632,success,langsung,Transfer,Surabaya,1000ml,9,28058,16916
+TRX361,2023-06-21 12:06:02.303253,success,langsung,QRIS,Serang,250ml,5,29442,3832
+TRX362,2024-03-01 10:47:58.820632,success,distributor,Transfer,Surabaya,1000ml,10,100000,19598
+TRX363,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Palembang,1000ml,6,30368,3832
+TRX364,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Bukittinggi,250ml,5,28494,7857
+TRX365,2023-04-28 01:31:28.210361,success,distributor,QRIS,Solok,1000ml,10,100000,11698
+TRX366,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Palembang,250ml,10,22116,11949
+TRX367,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Pekalongan,100ml,8,15597,12377
+TRX368,2024-03-01 10:47:58.820632,success,langsung,QRIS,Surabaya,100ml,5,93649,7127
+TRX369,2024-03-01 10:47:58.820632,success,distributor,Transfer,Bukittinggi,100ml,8,25853,7503
+TRX370,2024-03-01 10:47:58.820632,success,distributor,QRIS,Surabaya,1000ml,10,100000,14465
+TRX371,2024-02-14 19:06:26.496695,success,ecommerce,Credit Card,Solok,100ml,10,20545,17162
+TRX372,2024-02-14 19:06:26.496695,cancel,distributor,Transfer,Serang,100ml,8,17360,20000
+TRX373,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,7,10000,16917
+TRX374,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Prabumulih,250ml,6,26581,14595
+TRX375,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Serang,100ml,6,10000,3832
+TRX376,2023-07-29 02:09:58.408960,success,distributor,Transfer,Bukittinggi,250ml,6,99000,3832
+TRX377,2024-01-31 22:19:16.234071,success,ecommerce,Virtual Account,Prabumulih,1000ml,10,23253,15454
+TRX378,2023-08-19 10:18:01.475392,cancel,ecommerce,QRIS,Serang,100ml,6,15578,11896
+TRX379,2023-06-06 17:02:28.668535,success,ecommerce,QRIS,Solok,1000ml,7,100000,6346
+TRX380,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,10,100000,9260
+TRX381,2023-08-19 10:18:01.475392,success,distributor,Transfer,Pekalongan,100ml,10,95563,7067
+TRX382,2024-03-01 10:47:58.820632,success,distributor,Virtual Account,Tangerang,1000ml,9,92044,5881
+TRX383,2024-03-01 10:47:58.820632,success,ecommerce,Transfer,Tangerang,250ml,10,32552,8459
+TRX384,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Serang,250ml,7,33579,20000
+TRX385,2023-06-21 12:06:02.303253,success,ecommerce,Transfer,Surabaya,250ml,6,100000,8946
+TRX386,2023-07-29 02:09:58.408960,cancel,distributor,Transfer,Surabaya,100ml,7,11462,16831
+TRX387,2023-07-29 02:09:58.408960,success,ecommerce,Transfer,Palembang,1000ml,10,26221,11188
+TRX388,2024-02-14 19:06:26.496695,cancel,distributor,Credit Card,Surabaya,100ml,9,31195,10066
+TRX389,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Serang,250ml,7,24678,3832
+TRX390,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Palembang,250ml,6,28166,7304
+TRX391,2024-02-14 19:06:26.496695,cancel,distributor,Transfer,Surabaya,100ml,8,100000,9725
+TRX392,2023-11-15 18:28:58.056173,cancel,distributor,Virtual Account,Prabumulih,100ml,7,13878,13007
+TRX393,2024-01-31 22:19:16.234071,success,distributor,QRIS,Surabaya,1000ml,9,27567,3832
+TRX394,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Palembang,100ml,6,18820,7190
+TRX395,2024-02-14 19:06:26.496695,success,ecommerce,Credit Card,Prabumulih,250ml,9,30067,12036
+TRX396,2024-03-01 10:47:58.820632,success,distributor,Transfer,Surabaya,1000ml,6,100000,8011
+TRX397,2023-04-28 01:31:28.210361,success,distributor,Credit Card,Metro,250ml,9,18971,3832
+TRX398,2024-03-01 10:47:58.820632,success,distributor,Transfer,Surabaya,1000ml,9,100000,7137
+TRX399,2023-06-06 17:02:28.668535,success,ecommerce,Credit Card,Metro,250ml,6,29500,12637
+TRX400,2023-08-19 10:18:01.475392,success,langsung,QRIS,Prabumulih,250ml,10,26002,12889
+TRX401,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Palembang,100ml,5,12994,9720
+TRX402,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,8,10000,13033
+TRX403,2024-02-14 19:06:26.496695,success,distributor,Transfer,Metro,1000ml,9,24807,17445
+TRX404,2024-03-01 10:47:58.820632,success,langsung,QRIS,Prabumulih,250ml,6,22118,5569
+TRX405,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Bukittinggi,250ml,6,38756,7408
+TRX406,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,8,27925,8056
+TRX407,2023-11-15 18:28:58.056173,success,distributor,QRIS,Prabumulih,250ml,7,15894,11227
+TRX408,2023-06-06 17:02:28.668535,success,distributor,Transfer,Metro,1000ml,10,95690,10698
+TRX409,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Bukittinggi,1000ml,6,26926,13313
+TRX410,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Solok,100ml,9,30486,16143
+TRX411,2023-11-15 18:28:58.056173,success,langsung,Credit Card,Bukittinggi,100ml,6,14389,9025
+TRX412,2023-06-06 17:02:28.668535,success,distributor,Virtual Account,Solok,100ml,10,13674,8124
+TRX413,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,10,92691,8643
+TRX414,2023-11-15 18:28:58.056173,success,langsung,Transfer,Tangerang,250ml,6,34200,5484
+TRX415,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,9,10000,11257
+TRX416,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Metro,100ml,5,100000,6536
+TRX417,2024-03-01 10:47:58.820632,success,distributor,QRIS,Surabaya,1000ml,8,75989,3832
+TRX418,2023-06-21 12:06:02.303253,success,distributor,Transfer,Serang,1000ml,10,97898,3832
+TRX419,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Prabumulih,250ml,10,25652,11418
+TRX420,2024-03-01 10:47:58.820632,success,distributor,Transfer,Surabaya,1000ml,8,89744,3832
+TRX421,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Pekalongan,1000ml,7,20818,3982
+TRX422,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Palembang,1000ml,9,27483,13305
+TRX423,2024-03-01 10:47:58.820632,success,langsung,Transfer,Surabaya,1000ml,7,100000,4502
+TRX424,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Metro,1000ml,5,99108,4916
+TRX425,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,10,100000,13227
+TRX426,2024-02-14 19:06:26.496695,success,distributor,Transfer,Prabumulih,100ml,6,18035,7474
+TRX427,2023-08-19 10:18:01.475392,success,distributor,Transfer,Solok,250ml,9,23239,5090
+TRX428,2023-07-29 02:09:58.408960,success,langsung,Virtual Account,Prabumulih,100ml,9,29793,7533
+TRX429,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Palembang,100ml,5,34509,7830
+TRX430,2024-01-31 22:19:16.234071,success,distributor,Credit Card,Prabumulih,1000ml,8,97263,4888
+TRX431,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Serang,100ml,6,26420,5107
+TRX432,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Palembang,250ml,8,26024,16957
+TRX433,2023-06-06 17:02:28.668535,success,distributor,Virtual Account,Solok,100ml,9,10000,5492
+TRX434,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,9,100000,3832
+TRX435,2023-08-19 10:18:01.475392,success,ecommerce,Transfer,Metro,1000ml,8,22926,11531
+TRX436,2023-04-28 01:31:28.210361,cancel,langsung,Virtual Account,Bukittinggi,100ml,5,10000,3832
+TRX437,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Solok,250ml,10,100000,5216
+TRX438,2023-08-19 10:18:01.475392,success,distributor,QRIS,Surabaya,1000ml,8,98926,10591
+TRX439,2023-07-29 02:09:58.408960,success,distributor,QRIS,Prabumulih,1000ml,9,20183,3832
+TRX440,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Surabaya,1000ml,6,82639,9592
+TRX441,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Surabaya,250ml,8,19050,16233
+TRX442,2023-08-19 10:18:01.475392,success,distributor,Transfer,Prabumulih,1000ml,10,32050,9997
+TRX443,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Pekalongan,100ml,8,13483,10857
+TRX444,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Bukittinggi,250ml,7,19709,6402
+TRX445,2023-06-21 12:06:02.303253,success,distributor,QRIS,Pekalongan,100ml,6,15927,3832
+TRX446,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Bukittinggi,250ml,5,30638,8050
+TRX447,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Surabaya,250ml,6,33308,8633
+TRX448,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Palembang,250ml,6,25913,3832
+TRX449,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Bukittinggi,100ml,6,15729,8114
+TRX450,2024-02-14 19:06:26.496695,success,ecommerce,QRIS,Palembang,250ml,7,26712,10347
+TRX451,2023-07-29 02:09:58.408960,success,langsung,QRIS,Surabaya,1000ml,9,97221,3832
+TRX452,2024-01-31 22:19:16.234071,success,distributor,QRIS,Metro,1000ml,8,95435,4658
+TRX453,2023-07-29 02:09:58.408960,cancel,ecommerce,Virtual Account,Prabumulih,100ml,8,10000,14339
+TRX454,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Serang,250ml,5,19984,3832
+TRX455,2023-04-28 01:31:28.210361,cancel,distributor,Transfer,Surabaya,100ml,9,11347,7557
+TRX456,2024-02-14 19:06:26.496695,success,langsung,Credit Card,Pekalongan,100ml,9,11345,9879
+TRX457,2024-02-14 19:06:26.496695,success,distributor,QRIS,Pekalongan,100ml,8,18761,10695
+TRX458,2023-07-29 02:09:58.408960,success,langsung,Transfer,Metro,100ml,6,18906,6935
+TRX459,2024-03-01 10:47:58.820632,success,distributor,Transfer,Surabaya,1000ml,10,12745,18369
+TRX460,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Serang,100ml,6,15829,10847
+TRX461,2024-01-31 22:19:16.234071,success,ecommerce,Transfer,Surabaya,100ml,8,12119,8279
+TRX462,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Bukittinggi,250ml,10,25902,5627
+TRX463,2023-04-28 01:31:28.210361,cancel,distributor,Transfer,Pekalongan,1000ml,10,27775,18283
+TRX464,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Palembang,250ml,7,36318,12494
+TRX465,2024-03-01 10:47:58.820632,success,langsung,QRIS,Bukittinggi,100ml,6,69563,13632
+TRX466,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Prabumulih,250ml,6,38315,10199
+TRX467,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Prabumulih,250ml,6,100000,15207
+TRX468,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Metro,1000ml,7,28817,5527
+TRX469,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Metro,100ml,9,13401,10051
+TRX470,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Metro,250ml,7,100000,4424
+TRX471,2023-07-29 02:09:58.408960,success,ecommerce,Transfer,Tangerang,250ml,7,22371,3916
+TRX472,2023-08-19 10:18:01.475392,success,distributor,Transfer,Surabaya,1000ml,10,100000,7208
+TRX473,2023-08-19 10:18:01.475392,success,langsung,QRIS,Tangerang,250ml,5,29539,3832
+TRX474,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Tangerang,1000ml,9,21407,6389
+TRX475,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Metro,1000ml,7,100000,8320
+TRX476,2024-02-14 19:06:26.496695,success,distributor,Virtual Account,Tangerang,250ml,9,28882,8956
+TRX477,2023-06-21 12:06:02.303253,success,ecommerce,Transfer,Tangerang,100ml,10,26502,9664
+TRX478,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Palembang,100ml,8,15265,10907
+TRX479,2024-02-14 19:06:26.496695,cancel,distributor,Virtual Account,Pekalongan,100ml,9,10000,16780
+TRX480,2024-01-31 22:19:16.234071,cancel,distributor,Virtual Account,Pekalongan,100ml,9,13137,17399
+TRX481,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Bukittinggi,100ml,6,27508,5967
+TRX482,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Serang,250ml,9,37331,15108
+TRX483,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Prabumulih,100ml,6,30267,10721
+TRX484,2023-04-28 01:31:28.210361,success,distributor,Transfer,Metro,1000ml,7,100000,11588
+TRX485,2023-11-15 18:28:58.056173,success,langsung,Transfer,Prabumulih,100ml,5,10421,10836
+TRX486,2023-04-28 01:31:28.210361,success,distributor,Transfer,Pekalongan,100ml,9,40077,14022
+TRX487,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,250ml,8,20782,8645
+TRX488,2024-02-14 19:06:26.496695,success,distributor,Credit Card,Serang,250ml,10,26564,19026
+TRX489,2024-02-14 19:06:26.496695,success,distributor,Transfer,Pekalongan,100ml,10,89506,4699
+TRX490,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Solok,100ml,5,16913,16903
+TRX491,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Palembang,250ml,6,20213,8770
+TRX492,2024-03-01 10:47:58.820632,success,distributor,QRIS,Surabaya,1000ml,9,100000,17738
+TRX493,2023-06-06 17:02:28.668535,success,distributor,Transfer,Solok,100ml,9,97177,11063
+TRX494,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Pekalongan,250ml,10,26091,12996
+TRX495,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Tangerang,250ml,10,28354,10022
+TRX496,2023-11-15 18:28:58.056173,success,ecommerce,QRIS,Serang,250ml,6,24220,3832
+TRX497,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Palembang,100ml,6,25037,3955
+TRX498,2024-03-01 10:47:58.820632,success,ecommerce,Transfer,Metro,1000ml,6,97896,3832
+TRX499,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Metro,250ml,8,20029,10200
+TRX500,2023-06-06 17:02:28.668535,success,distributor,Transfer,Solok,1000ml,10,31523,8831
+TRX501,2023-04-28 01:31:28.210361,success,distributor,Transfer,Prabumulih,100ml,5,26067,9423
+TRX502,2023-07-29 02:09:58.408960,success,distributor,Credit Card,Palembang,100ml,8,20063,13945
+TRX503,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Bukittinggi,250ml,5,31102,3936
+TRX504,2023-08-19 10:18:01.475392,cancel,distributor,Virtual Account,Prabumulih,250ml,8,21416,13114
+TRX505,2023-04-28 01:31:28.210361,success,distributor,Transfer,Pekalongan,1000ml,10,29233,14312
+TRX506,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Metro,250ml,7,18754,3832
+TRX507,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Metro,250ml,9,29679,14441
+TRX508,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,250ml,10,36820,6804
+TRX509,2023-07-29 02:09:58.408960,success,langsung,Virtual Account,Bukittinggi,100ml,6,100000,13912
+TRX510,2023-04-28 01:31:28.210361,cancel,ecommerce,Transfer,Bukittinggi,100ml,8,11471,5656
+TRX511,2023-07-29 02:09:58.408960,success,distributor,QRIS,Metro,100ml,6,84362,4935
+TRX512,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,8,21756,12877
+TRX513,2023-04-28 01:31:28.210361,cancel,distributor,Transfer,Pekalongan,100ml,8,100000,5531
+TRX514,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Tangerang,250ml,7,36027,17009
+TRX515,2023-04-28 01:31:28.210361,success,ecommerce,QRIS,Prabumulih,100ml,6,19601,7980
+TRX516,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Metro,1000ml,6,100000,11873
+TRX517,2023-06-06 17:02:28.668535,success,ecommerce,Credit Card,Surabaya,100ml,6,94659,3935
+TRX518,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,100ml,5,22380,3832
+TRX519,2023-11-15 18:28:58.056173,success,distributor,Transfer,Pekalongan,250ml,10,33946,13995
+TRX520,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Serang,250ml,6,29864,11773
+TRX521,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Tangerang,1000ml,7,100000,7634
+TRX522,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Pekalongan,100ml,10,23101,6381
+TRX523,2023-04-28 01:31:28.210361,cancel,distributor,Credit Card,Prabumulih,100ml,8,26376,20000
+TRX524,2024-01-31 22:19:16.234071,success,distributor,Credit Card,Tangerang,250ml,10,19904,7443
+TRX525,2023-06-21 12:06:02.303253,success,distributor,Transfer,Surabaya,1000ml,10,31902,3832
+TRX526,2023-07-29 02:09:58.408960,success,distributor,Virtual Account,Metro,100ml,9,22593,7315
+TRX527,2023-06-06 17:02:28.668535,success,distributor,Transfer,Pekalongan,1000ml,9,17514,8110
+TRX528,2023-07-29 02:09:58.408960,success,langsung,Credit Card,Bukittinggi,100ml,5,10400,3832
+TRX529,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Palembang,250ml,5,85923,11974
+TRX530,2023-04-28 01:31:28.210361,success,ecommerce,Credit Card,Pekalongan,100ml,10,13803,9223
+TRX531,2023-11-15 18:28:58.056173,success,distributor,Credit Card,Serang,250ml,8,41714,13420
+TRX532,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Prabumulih,250ml,7,25764,14767
+TRX533,2023-06-06 17:02:28.668535,success,ecommerce,Transfer,Surabaya,1000ml,9,100000,10545
+TRX534,2024-01-31 22:19:16.234071,success,ecommerce,Transfer,Surabaya,1000ml,10,38297,5265
+TRX535,2024-03-01 10:47:58.820632,success,distributor,Transfer,Surabaya,1000ml,9,99992,6450
+TRX536,2023-08-19 10:18:01.475392,success,langsung,QRIS,Bukittinggi,250ml,5,10000,5670
+TRX537,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,250ml,5,24499,3832
+TRX538,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Palembang,250ml,6,25854,6004
+TRX539,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,8,13247,16774
+TRX540,2023-06-06 17:02:28.668535,success,ecommerce,QRIS,Metro,250ml,5,100000,7437
+TRX541,2023-07-29 02:09:58.408960,success,langsung,Credit Card,Bukittinggi,100ml,10,28600,8978
+TRX542,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Metro,1000ml,10,100000,12386
+TRX543,2023-11-15 18:28:58.056173,success,ecommerce,QRIS,Serang,250ml,7,35470,18232
+TRX544,2024-02-14 19:06:26.496695,success,distributor,Transfer,Tangerang,100ml,8,22551,4150
+TRX545,2024-01-31 22:19:16.234071,success,ecommerce,Virtual Account,Surabaya,100ml,10,24382,11371
+TRX546,2024-03-01 10:47:58.820632,success,distributor,QRIS,Surabaya,1000ml,5,88545,3832
+TRX547,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,100ml,8,10879,13267
+TRX548,2023-06-06 17:02:28.668535,success,langsung,Transfer,Metro,1000ml,8,88282,6101
+TRX549,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Prabumulih,100ml,7,31918,8728
+TRX550,2023-06-06 17:02:28.668535,success,distributor,Transfer,Pekalongan,100ml,8,96194,7296
+TRX551,2023-08-19 10:18:01.475392,success,ecommerce,QRIS,Palembang,1000ml,6,25052,5476
+TRX552,2024-01-31 22:19:16.234071,cancel,ecommerce,Credit Card,Pekalongan,100ml,9,10000,11340
+TRX553,2023-07-29 02:09:58.408960,success,distributor,Transfer,Tangerang,100ml,6,29480,6003
+TRX554,2023-07-29 02:09:58.408960,success,distributor,QRIS,Bukittinggi,100ml,9,17412,3832
+TRX555,2023-08-19 10:18:01.475392,success,distributor,Transfer,Tangerang,1000ml,7,24694,4496
+TRX556,2024-01-31 22:19:16.234071,success,distributor,QRIS,Tangerang,250ml,10,15895,10831
+TRX557,2024-02-14 19:06:26.496695,success,langsung,Virtual Account,Pekalongan,100ml,9,10000,4580
+TRX558,2023-06-21 12:06:02.303253,success,ecommerce,Transfer,Pekalongan,100ml,9,10243,11215
+TRX559,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Palembang,250ml,6,32285,16819
+TRX560,2024-03-01 10:47:58.820632,success,distributor,Credit Card,Prabumulih,100ml,6,100000,5668
+TRX561,2023-07-29 02:09:58.408960,success,langsung,QRIS,Palembang,1000ml,7,22592,6860
+TRX562,2023-11-15 18:28:58.056173,success,ecommerce,QRIS,Bukittinggi,1000ml,9,17440,3832
+TRX563,2023-06-06 17:02:28.668535,success,distributor,Credit Card,Prabumulih,100ml,9,10000,4585
+TRX564,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Palembang,250ml,5,26849,20000
+TRX565,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Bukittinggi,1000ml,5,100000,6898
+TRX566,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,100ml,5,10000,3832
+TRX567,2023-04-28 01:31:28.210361,success,distributor,QRIS,Palembang,100ml,9,13974,13800
+TRX568,2024-03-01 10:47:58.820632,success,distributor,Transfer,Prabumulih,100ml,6,22541,5362
+TRX569,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Surabaya,100ml,10,27295,6193
+TRX570,2023-08-19 10:18:01.475392,success,ecommerce,Transfer,Palembang,100ml,8,100000,15056
+TRX571,2023-04-28 01:31:28.210361,cancel,distributor,Transfer,Surabaya,100ml,10,28908,6702
+TRX572,2023-08-19 10:18:01.475392,success,distributor,QRIS,Metro,250ml,6,29208,13695
+TRX573,2023-04-28 01:31:28.210361,success,distributor,Credit Card,Tangerang,100ml,9,27562,9373
+TRX574,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Tangerang,250ml,7,20981,13595
+TRX575,2023-06-06 17:02:28.668535,success,distributor,Transfer,Solok,250ml,10,38134,7598
+TRX576,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Serang,250ml,9,33140,6188
+TRX577,2023-11-15 18:28:58.056173,success,ecommerce,QRIS,Metro,250ml,7,30864,7083
+TRX578,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,6,10000,17419
+TRX579,2024-03-01 10:47:58.820632,success,langsung,QRIS,Metro,100ml,5,11269,3832
+TRX580,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Surabaya,250ml,8,15987,6494
+TRX581,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Bukittinggi,100ml,6,24375,4982
+TRX582,2024-03-01 10:47:58.820632,success,distributor,QRIS,Metro,1000ml,8,30677,4770
+TRX583,2023-06-06 17:02:28.668535,success,distributor,QRIS,Metro,250ml,7,100000,15463
+TRX584,2024-03-01 10:47:58.820632,success,distributor,Transfer,Surabaya,1000ml,9,100000,7102
+TRX585,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Surabaya,250ml,6,18142,11482
+TRX586,2023-04-28 01:31:28.210361,success,distributor,Transfer,Tangerang,1000ml,9,18679,8073
+TRX587,2024-01-31 22:19:16.234071,success,distributor,Credit Card,Bukittinggi,100ml,7,10405,3832
+TRX588,2023-08-19 10:18:01.475392,success,langsung,Transfer,Bukittinggi,100ml,5,22966,4605
+TRX589,2023-08-19 10:18:01.475392,success,langsung,QRIS,Palembang,250ml,8,23346,10529
+TRX590,2023-04-28 01:31:28.210361,success,distributor,QRIS,Pekalongan,100ml,8,15293,18667
+TRX591,2023-04-28 01:31:28.210361,success,ecommerce,Credit Card,Prabumulih,250ml,8,24527,12754
+TRX592,2023-06-21 12:06:02.303253,success,distributor,Credit Card,Palembang,250ml,10,10000,16685
+TRX593,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Bukittinggi,100ml,7,20540,3832
+TRX594,2023-11-15 18:28:58.056173,success,distributor,Credit Card,Tangerang,1000ml,5,35933,15623
+TRX595,2023-08-19 10:18:01.475392,success,ecommerce,QRIS,Serang,100ml,8,35183,12504
+TRX596,2023-04-28 01:31:28.210361,success,distributor,Transfer,Serang,100ml,10,16402,8385
+TRX597,2023-04-28 01:31:28.210361,cancel,distributor,Transfer,Pekalongan,100ml,8,20152,9134
+TRX598,2023-08-19 10:18:01.475392,success,distributor,Transfer,Bukittinggi,1000ml,10,22420,9446
+TRX599,2024-03-01 10:47:58.820632,success,ecommerce,Transfer,Metro,1000ml,9,83572,14155
+TRX600,2024-01-31 22:19:16.234071,success,ecommerce,Virtual Account,Bukittinggi,1000ml,6,19218,12785
+TRX601,2024-01-31 22:19:16.234071,success,distributor,Transfer,Solok,250ml,9,22083,17669
+TRX602,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Metro,100ml,6,29612,3832
+TRX603,2023-04-28 01:31:28.210361,cancel,langsung,Virtual Account,Pekalongan,100ml,6,10000,9582
+TRX604,2023-08-19 10:18:01.475392,success,distributor,Transfer,Solok,100ml,10,19046,5027
+TRX605,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Palembang,250ml,7,29337,6839
+TRX606,2023-06-06 17:02:28.668535,success,distributor,Transfer,Metro,1000ml,9,100000,14204
+TRX607,2023-04-28 01:31:28.210361,cancel,distributor,Transfer,Tangerang,250ml,9,100000,16096
+TRX608,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,10,23306,8041
+TRX609,2023-06-21 12:06:02.303253,success,langsung,QRIS,Solok,250ml,5,28015,3832
+TRX610,2023-06-21 12:06:02.303253,success,distributor,Transfer,Bukittinggi,1000ml,5,15213,6060
+TRX611,2023-04-28 01:31:28.210361,cancel,distributor,QRIS,Pekalongan,100ml,10,24025,7931
+TRX612,2024-02-14 19:06:26.496695,success,distributor,Transfer,Surabaya,1000ml,7,88276,6235
+TRX613,2024-03-01 10:47:58.820632,success,langsung,QRIS,Bukittinggi,1000ml,5,78311,5060
+TRX614,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Palembang,250ml,6,25005,9631
+TRX615,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Prabumulih,100ml,10,17974,11112
+TRX616,2023-04-28 01:31:28.210361,success,langsung,QRIS,Surabaya,250ml,9,17208,15999
+TRX617,2023-07-29 02:09:58.408960,success,langsung,QRIS,Palembang,100ml,5,15186,3832
+TRX618,2023-04-28 01:31:28.210361,cancel,distributor,Transfer,Pekalongan,1000ml,7,98890,17270
+TRX619,2023-08-19 10:18:01.475392,success,ecommerce,Credit Card,Palembang,250ml,7,31969,11560
+TRX620,2023-06-21 12:06:02.303253,success,ecommerce,Virtual Account,Bukittinggi,1000ml,6,10000,4084
+TRX621,2024-01-31 22:19:16.234071,success,distributor,Virtual Account,Bukittinggi,100ml,8,11150,3832
+TRX622,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,100ml,5,10000,5349
+TRX623,2023-04-28 01:31:28.210361,success,distributor,QRIS,Solok,100ml,6,11498,14860
+TRX624,2023-08-19 10:18:01.475392,success,ecommerce,QRIS,Palembang,100ml,7,21228,7449
+TRX625,2023-07-29 02:09:58.408960,cancel,ecommerce,Credit Card,Solok,100ml,6,10000,3832
+TRX626,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Palembang,250ml,5,25712,5926
+TRX627,2024-01-31 22:19:16.234071,success,langsung,QRIS,Surabaya,250ml,6,14774,5794
+TRX628,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Tangerang,250ml,6,100000,11723
+TRX629,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Prabumulih,250ml,10,32640,13589
+TRX630,2024-01-31 22:19:16.234071,success,langsung,QRIS,Bukittinggi,100ml,9,24562,18051
+TRX631,2023-06-06 17:02:28.668535,success,langsung,QRIS,Tangerang,1000ml,10,20346,4124
+TRX632,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Serang,250ml,6,25671,3832
+TRX633,2023-07-29 02:09:58.408960,success,distributor,QRIS,Metro,100ml,5,19085,3832
+TRX634,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,10,13253,12794
+TRX635,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Surabaya,250ml,10,100000,10591
+TRX636,2023-08-19 10:18:01.475392,success,langsung,Transfer,Palembang,100ml,5,100000,9262
+TRX637,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Metro,250ml,7,100000,7388
+TRX638,2024-02-14 19:06:26.496695,success,ecommerce,Virtual Account,Prabumulih,250ml,10,20943,7393
+TRX639,2024-02-14 19:06:26.496695,success,distributor,Transfer,Prabumulih,100ml,8,27236,7747
+TRX640,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Tangerang,1000ml,10,100000,8143
+TRX641,2023-08-19 10:18:01.475392,success,ecommerce,Credit Card,Solok,100ml,9,25771,16779
+TRX642,2023-04-28 01:31:28.210361,cancel,distributor,Transfer,Pekalongan,100ml,8,17222,20000
+TRX643,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Palembang,100ml,7,30869,6268
+TRX644,2024-02-14 19:06:26.496695,success,distributor,Transfer,Solok,1000ml,7,93309,5955
+TRX645,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Solok,100ml,9,18386,13139
+TRX646,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Palembang,100ml,9,30031,15147
+TRX647,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,10,10000,16501
+TRX648,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Metro,1000ml,7,95411,6480
+TRX649,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Prabumulih,250ml,6,35137,9234
+TRX650,2023-04-28 01:31:28.210361,success,distributor,Transfer,Tangerang,100ml,10,100000,13500
+TRX651,2023-04-28 01:31:28.210361,success,langsung,Virtual Account,Bukittinggi,100ml,5,10000,7514
+TRX652,2024-03-01 10:47:58.820632,success,langsung,Transfer,Prabumulih,1000ml,7,98380,8924
+TRX653,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Pekalongan,100ml,9,18129,3832
+TRX654,2024-02-14 19:06:26.496695,success,ecommerce,Credit Card,Bukittinggi,100ml,6,37212,5026
+TRX655,2023-06-21 12:06:02.303253,success,ecommerce,Transfer,Tangerang,250ml,10,32821,19909
+TRX656,2024-02-14 19:06:26.496695,cancel,distributor,Virtual Account,Pekalongan,1000ml,10,92998,9122
+TRX657,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Solok,100ml,9,12312,3832
+TRX658,2023-06-06 17:02:28.668535,success,ecommerce,Credit Card,Serang,1000ml,7,17538,9361
+TRX659,2024-01-31 22:19:16.234071,success,langsung,Transfer,Surabaya,100ml,8,100000,3832
+TRX660,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Serang,100ml,7,16186,6525
+TRX661,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Palembang,1000ml,5,17022,10429
+TRX662,2023-06-06 17:02:28.668535,success,distributor,Transfer,Solok,1000ml,8,94607,9180
+TRX663,2024-03-01 10:47:58.820632,success,distributor,Virtual Account,Prabumulih,100ml,8,10787,14996
+TRX664,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Tangerang,250ml,10,18763,19283
+TRX665,2023-11-15 18:28:58.056173,cancel,ecommerce,Transfer,Tangerang,100ml,7,24026,13095
+TRX666,2023-11-15 18:28:58.056173,success,ecommerce,QRIS,Bukittinggi,100ml,6,28571,3832
+TRX667,2023-11-15 18:28:58.056173,success,ecommerce,QRIS,Prabumulih,1000ml,10,24486,6330
+TRX668,2024-03-01 10:47:58.820632,success,ecommerce,Transfer,Prabumulih,250ml,6,10000,5371
+TRX669,2024-03-01 10:47:58.820632,success,distributor,Transfer,Tangerang,1000ml,10,22306,11808
+TRX670,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Tangerang,250ml,10,31485,6815
+TRX671,2023-07-29 02:09:58.408960,success,distributor,Transfer,Serang,1000ml,7,100000,7515
+TRX672,2024-02-14 19:06:26.496695,success,distributor,Transfer,Bukittinggi,100ml,6,100000,3832
+TRX673,2024-03-01 10:47:58.820632,success,ecommerce,Transfer,Tangerang,250ml,7,100000,10198
+TRX674,2023-08-19 10:18:01.475392,success,ecommerce,QRIS,Serang,100ml,6,100000,11830
+TRX675,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Palembang,100ml,6,13390,3832
+TRX676,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Serang,100ml,7,33250,3832
+TRX677,2023-06-21 12:06:02.303253,success,distributor,Transfer,Pekalongan,100ml,5,23094,8866
+TRX678,2023-08-19 10:18:01.475392,success,ecommerce,QRIS,Bukittinggi,100ml,8,10948,11746
+TRX679,2024-02-14 19:06:26.496695,success,langsung,Transfer,Pekalongan,100ml,8,14323,10201
+TRX680,2023-08-19 10:18:01.475392,success,ecommerce,Credit Card,Palembang,1000ml,7,20063,13243
+TRX681,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,10,100000,7139
+TRX682,2024-02-14 19:06:26.496695,cancel,distributor,Virtual Account,Solok,100ml,10,24842,11928
+TRX683,2023-08-19 10:18:01.475392,success,distributor,Virtual Account,Prabumulih,100ml,9,18634,12381
+TRX684,2023-11-15 18:28:58.056173,success,langsung,QRIS,Metro,250ml,6,100000,7296
+TRX685,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Prabumulih,1000ml,7,21885,16800
+TRX686,2024-01-31 22:19:16.234071,success,distributor,Virtual Account,Prabumulih,100ml,7,11245,3832
+TRX687,2024-02-14 19:06:26.496695,success,distributor,Transfer,Surabaya,1000ml,9,100000,5065
+TRX688,2023-07-29 02:09:58.408960,success,langsung,Virtual Account,Bukittinggi,100ml,8,10000,3832
+TRX689,2023-04-28 01:31:28.210361,success,distributor,Transfer,Solok,100ml,9,32372,9010
+TRX690,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Bukittinggi,250ml,6,36396,3832
+TRX691,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,250ml,5,10000,3832
+TRX692,2023-08-19 10:18:01.475392,success,ecommerce,Transfer,Surabaya,1000ml,9,99917,5002
+TRX693,2023-07-29 02:09:58.408960,success,langsung,Credit Card,Bukittinggi,100ml,6,17804,8453
+TRX694,2023-06-06 17:02:28.668535,success,ecommerce,Credit Card,Tangerang,100ml,8,21727,17672
+TRX695,2024-01-31 22:19:16.234071,cancel,ecommerce,Credit Card,Pekalongan,250ml,7,25540,11561
+TRX696,2023-08-19 10:18:01.475392,success,ecommerce,QRIS,Serang,250ml,9,21127,9231
+TRX697,2024-03-01 10:47:58.820632,success,ecommerce,Transfer,Serang,250ml,10,100000,12560
+TRX698,2023-06-21 12:06:02.303253,success,distributor,QRIS,Surabaya,1000ml,5,99801,5146
+TRX699,2023-04-28 01:31:28.210361,success,distributor,Transfer,Pekalongan,100ml,10,33248,8007
+TRX700,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,10,100000,14565
+TRX701,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Tangerang,250ml,9,12839,6501
+TRX702,2023-11-15 18:28:58.056173,success,distributor,Credit Card,Prabumulih,1000ml,10,36121,11628
+TRX703,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Surabaya,250ml,10,24019,20000
+TRX704,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Palembang,100ml,7,11636,8428
+TRX705,2023-11-15 18:28:58.056173,cancel,langsung,Virtual Account,Pekalongan,100ml,6,14615,7914
+TRX706,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,100ml,10,100000,7120
+TRX707,2023-06-21 12:06:02.303253,success,ecommerce,Transfer,Palembang,250ml,9,42705,3893
+TRX708,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Palembang,100ml,10,31646,4759
+TRX709,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,7,13457,11173
+TRX710,2023-08-19 10:18:01.475392,success,ecommerce,Transfer,Tangerang,250ml,6,23109,9600
+TRX711,2023-11-15 18:28:58.056173,success,distributor,Transfer,Surabaya,1000ml,10,100000,9362
+TRX712,2023-06-21 12:06:02.303253,success,distributor,Transfer,Solok,250ml,10,26124,13850
+TRX713,2023-08-19 10:18:01.475392,success,distributor,QRIS,Pekalongan,100ml,7,25882,3832
+TRX714,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Metro,100ml,6,14256,3832
+TRX715,2023-06-06 17:02:28.668535,success,distributor,Transfer,Metro,1000ml,10,91050,12068
+TRX716,2023-04-28 01:31:28.210361,success,distributor,Transfer,Serang,100ml,9,25051,7279
+TRX717,2023-06-06 17:02:28.668535,success,ecommerce,Transfer,Tangerang,1000ml,9,100000,14782
+TRX718,2024-02-14 19:06:26.496695,cancel,distributor,Transfer,Pekalongan,100ml,8,79274,8280
+TRX719,2023-08-19 10:18:01.475392,success,ecommerce,Credit Card,Metro,1000ml,6,20112,8375
+TRX720,2024-02-14 19:06:26.496695,success,distributor,QRIS,Pekalongan,100ml,10,10137,8094
+TRX721,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Prabumulih,1000ml,7,25948,6557
+TRX722,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Palembang,250ml,6,22956,5826
+TRX723,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Prabumulih,250ml,6,23592,14640
+TRX724,2023-08-19 10:18:01.475392,success,distributor,Transfer,Prabumulih,1000ml,6,93848,10360
+TRX725,2024-02-14 19:06:26.496695,success,distributor,QRIS,Prabumulih,100ml,10,100000,8698
+TRX726,2023-04-28 01:31:28.210361,cancel,langsung,Virtual Account,Pekalongan,100ml,9,13973,10022
+TRX727,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Serang,250ml,10,32393,5521
+TRX728,2023-06-21 12:06:02.303253,success,distributor,QRIS,Bukittinggi,100ml,9,28020,7482
+TRX729,2024-02-14 19:06:26.496695,success,distributor,Transfer,Pekalongan,1000ml,10,84554,9618
+TRX730,2023-08-19 10:18:01.475392,success,ecommerce,Credit Card,Tangerang,1000ml,8,100000,17634
+TRX731,2024-01-31 22:19:16.234071,success,ecommerce,Transfer,Pekalongan,100ml,9,25836,8704
+TRX732,2024-03-01 10:47:58.820632,success,distributor,Transfer,Pekalongan,100ml,10,28254,18890
+TRX733,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Prabumulih,250ml,9,39456,12838
+TRX734,2024-03-01 10:47:58.820632,cancel,langsung,Virtual Account,Serang,250ml,5,26888,9466
+TRX735,2023-04-28 01:31:28.210361,success,langsung,Credit Card,Bukittinggi,100ml,8,21135,10843
+TRX736,2024-01-31 22:19:16.234071,success,langsung,QRIS,Bukittinggi,100ml,5,13462,9179
+TRX737,2023-08-19 10:18:01.475392,success,ecommerce,Credit Card,Serang,250ml,7,10000,8858
+TRX738,2023-04-28 01:31:28.210361,success,distributor,Transfer,Palembang,100ml,8,13327,16936
+TRX739,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,9,96369,7355
+TRX740,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Pekalongan,100ml,5,32064,14981
+TRX741,2023-11-15 18:28:58.056173,success,ecommerce,QRIS,Serang,100ml,5,16367,17439
+TRX742,2023-08-19 10:18:01.475392,cancel,distributor,Virtual Account,Tangerang,100ml,10,18137,17833
+TRX743,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Bukittinggi,250ml,5,27483,8232
+TRX744,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Prabumulih,250ml,10,33661,20000
+TRX745,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,8,16392,11579
+TRX746,2023-11-15 18:28:58.056173,success,distributor,Credit Card,Pekalongan,100ml,8,10000,7979
+TRX747,2024-01-31 22:19:16.234071,success,distributor,Transfer,Pekalongan,100ml,10,15338,11326
+TRX748,2023-06-21 12:06:02.303253,success,ecommerce,Transfer,Solok,250ml,10,26258,18261
+TRX749,2023-11-15 18:28:58.056173,success,distributor,Transfer,Tangerang,100ml,5,23521,5413
+TRX750,2024-02-14 19:06:26.496695,success,ecommerce,Credit Card,Prabumulih,100ml,9,28598,11842
+TRX751,2023-08-19 10:18:01.475392,success,distributor,QRIS,Prabumulih,250ml,9,25877,15443
+TRX752,2023-04-28 01:31:28.210361,success,langsung,QRIS,Pekalongan,100ml,8,19698,14568
+TRX753,2024-02-14 19:06:26.496695,success,ecommerce,Virtual Account,Metro,100ml,6,23869,3832
+TRX754,2023-06-06 17:02:28.668535,success,ecommerce,Transfer,Surabaya,1000ml,7,94651,15179
+TRX755,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Tangerang,1000ml,6,31260,4122
+TRX756,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Palembang,100ml,6,25326,3832
+TRX757,2024-01-31 22:19:16.234071,cancel,distributor,Virtual Account,Palembang,100ml,8,16951,6863
+TRX758,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,8,100000,11634
+TRX759,2023-11-15 18:28:58.056173,success,ecommerce,QRIS,Surabaya,250ml,10,28106,6391
+TRX760,2023-11-15 18:28:58.056173,success,ecommerce,Transfer,Metro,1000ml,6,100000,4060
+TRX761,2023-11-15 18:28:58.056173,success,ecommerce,QRIS,Metro,250ml,10,15909,5873
+TRX762,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Tangerang,100ml,8,33226,14715
+TRX763,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Solok,100ml,6,16045,7227
+TRX764,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,1000ml,8,18888,8904
+TRX765,2023-06-06 17:02:28.668535,success,distributor,QRIS,Surabaya,250ml,6,100000,8039
+TRX766,2023-07-29 02:09:58.408960,success,distributor,Transfer,Surabaya,1000ml,10,31322,8726
+TRX767,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,10,100000,9613
+TRX768,2024-01-31 22:19:16.234071,success,distributor,Transfer,Prabumulih,1000ml,5,95359,12138
+TRX769,2024-02-14 19:06:26.496695,success,ecommerce,QRIS,Surabaya,1000ml,7,100000,6363
+TRX770,2023-06-06 17:02:28.668535,success,distributor,Transfer,Tangerang,250ml,10,35987,18231
+TRX771,2023-11-15 18:28:58.056173,cancel,distributor,Virtual Account,Pekalongan,100ml,9,24117,13315
+TRX772,2023-07-29 02:09:58.408960,cancel,distributor,Virtual Account,Pekalongan,100ml,7,10000,7464
+TRX773,2023-04-28 01:31:28.210361,cancel,distributor,Transfer,Pekalongan,1000ml,9,22413,19189
+TRX774,2023-06-21 12:06:02.303253,success,langsung,QRIS,Solok,250ml,6,33300,4812
+TRX775,2023-06-21 12:06:02.303253,success,langsung,QRIS,Solok,1000ml,6,26324,7738
+TRX776,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Prabumulih,100ml,7,25409,5325
+TRX777,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,8,10000,12964
+TRX778,2023-08-19 10:18:01.475392,success,ecommerce,Credit Card,Bukittinggi,250ml,6,25898,8855
+TRX779,2023-04-28 01:31:28.210361,success,langsung,QRIS,Palembang,100ml,6,23622,13493
+TRX780,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Prabumulih,250ml,10,30270,12960
+TRX781,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Serang,250ml,7,26843,3832
+TRX782,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Bukittinggi,1000ml,7,30477,8395
+TRX783,2023-06-21 12:06:02.303253,success,ecommerce,Transfer,Tangerang,100ml,8,26612,10873
+TRX784,2024-02-14 19:06:26.496695,success,distributor,Credit Card,Serang,1000ml,9,16254,19365
+TRX785,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,6,10000,11926
+TRX786,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Palembang,250ml,7,37429,20000
+TRX787,2024-01-31 22:19:16.234071,success,langsung,Credit Card,Bukittinggi,100ml,5,13364,3832
+TRX788,2023-08-19 10:18:01.475392,success,distributor,Transfer,Pekalongan,100ml,9,24628,17482
+TRX789,2023-06-21 12:06:02.303253,success,ecommerce,Transfer,Prabumulih,100ml,7,27056,6609
+TRX790,2023-08-19 10:18:01.475392,success,langsung,QRIS,Palembang,1000ml,6,22465,11675
+TRX791,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Pekalongan,100ml,8,14500,17709
+TRX792,2023-06-06 17:02:28.668535,success,distributor,Transfer,Solok,250ml,10,22989,9461
+TRX793,2023-06-06 17:02:28.668535,success,distributor,Transfer,Prabumulih,250ml,7,29885,8575
+TRX794,2024-02-14 19:06:26.496695,success,ecommerce,Transfer,Prabumulih,250ml,10,100000,15578
+TRX795,2023-08-19 10:18:01.475392,success,ecommerce,Transfer,Solok,250ml,9,15474,3832
+TRX796,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Palembang,250ml,7,27192,12968
+TRX797,2024-02-14 19:06:26.496695,success,distributor,Transfer,Metro,1000ml,8,16246,5532
+TRX798,2023-07-29 02:09:58.408960,cancel,langsung,Virtual Account,Bukittinggi,100ml,5,10035,3832
+TRX799,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Bukittinggi,100ml,6,10000,3832
+TRX800,2024-03-01 10:47:58.820632,success,distributor,Transfer,Tangerang,100ml,8,16544,5617
+TRX801,2024-02-14 19:06:26.496695,cancel,distributor,Virtual Account,Pekalongan,100ml,7,11867,10960
+TRX802,2023-11-15 18:28:58.056173,success,langsung,Transfer,Bukittinggi,100ml,5,10000,3832
+TRX803,2024-03-01 10:47:58.820632,success,ecommerce,Transfer,Surabaya,1000ml,10,21975,11503
+TRX804,2024-01-31 22:19:16.234071,success,distributor,Transfer,Solok,1000ml,10,100000,8256
+TRX805,2024-02-14 19:06:26.496695,success,distributor,Transfer,Tangerang,250ml,9,19111,3832
+TRX806,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Metro,250ml,7,27202,7774
+TRX807,2024-02-14 19:06:26.496695,success,distributor,Transfer,Pekalongan,250ml,10,28316,18679
+TRX808,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,100ml,5,10000,3832
+TRX809,2024-01-31 22:19:16.234071,success,langsung,Transfer,Palembang,250ml,6,24254,16480
+TRX810,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Tangerang,250ml,7,32773,10608
+TRX811,2024-02-14 19:06:26.496695,cancel,distributor,Virtual Account,Solok,100ml,9,10000,8456
+TRX812,2023-08-19 10:18:01.475392,success,ecommerce,Credit Card,Prabumulih,100ml,5,23886,4987
+TRX813,2023-06-06 17:02:28.668535,success,distributor,Virtual Account,Surabaya,250ml,10,100000,7941
+TRX814,2024-02-14 19:06:26.496695,success,distributor,QRIS,Palembang,1000ml,10,22904,8127
+TRX815,2023-07-29 02:09:58.408960,success,distributor,QRIS,Bukittinggi,250ml,6,29956,11675
+TRX816,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Bukittinggi,100ml,7,100000,11597
+TRX817,2023-04-28 01:31:28.210361,cancel,distributor,Transfer,Solok,100ml,8,10000,4083
+TRX818,2023-08-19 10:18:01.475392,success,ecommerce,QRIS,Palembang,250ml,6,17589,10310
+TRX819,2024-01-31 22:19:16.234071,success,langsung,QRIS,Solok,100ml,6,22800,3832
+TRX820,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Palembang,100ml,6,33417,7053
+TRX821,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Serang,250ml,6,25631,12203
+TRX822,2024-02-14 19:06:26.496695,success,distributor,Virtual Account,Serang,250ml,10,19647,8602
+TRX823,2024-02-14 19:06:26.496695,success,distributor,Transfer,Bukittinggi,100ml,5,10000,7694
+TRX824,2023-07-29 02:09:58.408960,success,langsung,Virtual Account,Surabaya,100ml,6,17363,13451
+TRX825,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,10,12412,10058
+TRX826,2023-04-28 01:31:28.210361,cancel,ecommerce,Virtual Account,Pekalongan,100ml,9,17551,17401
+TRX827,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Bukittinggi,250ml,6,19117,6498
+TRX828,2023-08-19 10:18:01.475392,cancel,distributor,Virtual Account,Solok,100ml,10,15551,7917
+TRX829,2023-04-28 01:31:28.210361,cancel,distributor,QRIS,Pekalongan,100ml,7,10000,14075
+TRX830,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Palembang,100ml,9,10000,10671
+TRX831,2024-01-31 22:19:16.234071,success,langsung,QRIS,Metro,100ml,8,12475,17086
+TRX832,2023-04-28 01:31:28.210361,success,ecommerce,Virtual Account,Bukittinggi,100ml,5,19812,17841
+TRX833,2024-01-31 22:19:16.234071,success,distributor,Transfer,Tangerang,100ml,10,100000,4903
+TRX834,2023-06-21 12:06:02.303253,success,ecommerce,Transfer,Serang,250ml,9,100000,13052
+TRX835,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Bukittinggi,100ml,9,18855,11343
+TRX836,2023-06-21 12:06:02.303253,success,ecommerce,Transfer,Serang,250ml,7,26018,11478
+TRX837,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Solok,1000ml,7,16069,5641
+TRX838,2024-03-01 10:47:58.820632,success,ecommerce,Transfer,Metro,1000ml,9,96314,5767
+TRX839,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Serang,250ml,9,12916,15204
+TRX840,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Metro,250ml,6,29549,3977
+TRX841,2024-01-31 22:19:16.234071,success,distributor,Credit Card,Metro,100ml,10,31604,12575
+TRX842,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Prabumulih,100ml,6,27086,4038
+TRX843,2023-04-28 01:31:28.210361,success,distributor,Credit Card,Solok,100ml,8,10000,6547
+TRX844,2023-06-21 12:06:02.303253,success,ecommerce,Virtual Account,Prabumulih,250ml,7,24232,12544
+TRX845,2024-02-14 19:06:26.496695,success,ecommerce,Credit Card,Prabumulih,100ml,8,19899,8045
+TRX846,2023-11-15 18:28:58.056173,cancel,distributor,Transfer,Serang,250ml,9,100000,19783
+TRX847,2023-06-06 17:02:28.668535,success,ecommerce,QRIS,Bukittinggi,100ml,6,29426,7865
+TRX848,2024-02-14 19:06:26.496695,success,langsung,Credit Card,Palembang,1000ml,9,37996,12022
+TRX849,2023-08-19 10:18:01.475392,success,ecommerce,QRIS,Prabumulih,250ml,7,28993,5950
+TRX850,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Metro,250ml,6,100000,6103
+TRX851,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Prabumulih,250ml,7,29113,5380
+TRX852,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Palembang,250ml,7,19260,12696
+TRX853,2023-06-06 17:02:28.668535,success,ecommerce,Credit Card,Bukittinggi,100ml,10,100000,3832
+TRX854,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Surabaya,1000ml,10,100000,13560
+TRX855,2023-11-15 18:28:58.056173,success,distributor,QRIS,Tangerang,1000ml,6,26025,10460
+TRX856,2023-04-28 01:31:28.210361,success,distributor,Transfer,Surabaya,100ml,10,26459,14616
+TRX857,2024-03-01 10:47:58.820632,success,distributor,QRIS,Solok,1000ml,5,14665,5029
+TRX858,2024-03-01 10:47:58.820632,success,distributor,Transfer,Tangerang,1000ml,8,29843,10731
+TRX859,2023-06-06 17:02:28.668535,success,distributor,QRIS,Surabaya,1000ml,5,12190,3832
+TRX860,2023-06-21 12:06:02.303253,success,langsung,Credit Card,Bukittinggi,100ml,7,40864,3832
+TRX861,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Palembang,1000ml,5,24933,16516
+TRX862,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,5,11022,15232
+TRX863,2024-03-01 10:47:58.820632,success,distributor,Transfer,Surabaya,1000ml,9,99908,10520
+TRX864,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,250ml,10,100000,16901
+TRX865,2023-11-15 18:28:58.056173,success,langsung,QRIS,Pekalongan,250ml,9,14828,15742
+TRX866,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,100ml,5,23047,9120
+TRX867,2024-01-31 22:19:16.234071,success,ecommerce,Transfer,Metro,1000ml,7,18919,12316
+TRX868,2024-02-14 19:06:26.496695,cancel,langsung,Credit Card,Tangerang,100ml,9,19752,3973
+TRX869,2023-04-28 01:31:28.210361,cancel,ecommerce,Virtual Account,Solok,100ml,8,19449,19125
+TRX870,2023-04-28 01:31:28.210361,success,ecommerce,QRIS,Bukittinggi,250ml,5,10000,9382
+TRX871,2023-06-06 17:02:28.668535,success,distributor,Transfer,Metro,1000ml,6,31568,5470
+TRX872,2024-01-31 22:19:16.234071,success,distributor,Transfer,Serang,250ml,9,13388,8955
+TRX873,2023-06-06 17:02:28.668535,success,ecommerce,QRIS,Serang,250ml,9,19050,9653
+TRX874,2023-08-19 10:18:01.475392,success,ecommerce,Transfer,Bukittinggi,1000ml,6,27955,9859
+TRX875,2024-03-01 10:47:58.820632,success,distributor,Transfer,Solok,250ml,10,93298,18410
+TRX876,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,10,100000,7591
+TRX877,2023-06-21 12:06:02.303253,success,ecommerce,Transfer,Pekalongan,100ml,6,11617,3832
+TRX878,2023-04-28 01:31:28.210361,success,distributor,Transfer,Bukittinggi,100ml,8,10336,3832
+TRX879,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Surabaya,100ml,6,11054,3832
+TRX880,2023-07-29 02:09:58.408960,success,langsung,Virtual Account,Bukittinggi,100ml,5,10000,9106
+TRX881,2023-07-29 02:09:58.408960,success,ecommerce,Transfer,Surabaya,1000ml,8,23130,3832
+TRX882,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Prabumulih,250ml,10,10000,9444
+TRX883,2023-04-28 01:31:28.210361,success,ecommerce,Transfer,Prabumulih,1000ml,6,16719,14136
+TRX884,2023-04-28 01:31:28.210361,cancel,ecommerce,Virtual Account,Pekalongan,250ml,8,10000,11135
+TRX885,2023-06-06 17:02:28.668535,success,ecommerce,Credit Card,Metro,250ml,9,27500,14333
+TRX886,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Tangerang,100ml,9,100000,4784
+TRX887,2023-06-06 17:02:28.668535,success,ecommerce,QRIS,Surabaya,250ml,10,100000,5930
+TRX888,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Tangerang,100ml,5,16042,3832
+TRX889,2023-06-06 17:02:28.668535,success,distributor,Transfer,Serang,1000ml,8,96070,6561
+TRX890,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,8,90706,9625
+TRX891,2023-07-29 02:09:58.408960,success,distributor,QRIS,Surabaya,1000ml,8,90338,3832
+TRX892,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Surabaya,250ml,6,30438,4754
+TRX893,2023-08-19 10:18:01.475392,success,langsung,QRIS,Metro,100ml,6,97845,3832
+TRX894,2023-11-15 18:28:58.056173,success,distributor,QRIS,Bukittinggi,100ml,6,13098,3832
+TRX895,2024-02-14 19:06:26.496695,success,ecommerce,QRIS,Palembang,250ml,8,19201,5743
+TRX896,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Serang,1000ml,6,100000,8779
+TRX897,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Metro,1000ml,5,21484,13852
+TRX898,2023-07-29 02:09:58.408960,success,langsung,Transfer,Bukittinggi,100ml,8,86625,3832
+TRX899,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,7,99165,15055
+TRX900,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,8,90918,3832
+TRX901,2023-04-28 01:31:28.210361,cancel,distributor,Credit Card,Surabaya,100ml,8,24848,17053
+TRX902,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,10,100000,18018
+TRX903,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Solok,100ml,9,12494,3832
+TRX904,2023-11-15 18:28:58.056173,success,distributor,Transfer,Surabaya,1000ml,9,100000,11904
+TRX905,2023-08-19 10:18:01.475392,success,distributor,Transfer,Tangerang,250ml,10,27399,15626
+TRX906,2023-08-19 10:18:01.475392,success,ecommerce,Credit Card,Prabumulih,250ml,9,30620,7058
+TRX907,2023-11-15 18:28:58.056173,success,ecommerce,QRIS,Prabumulih,250ml,7,29708,7832
+TRX908,2023-07-29 02:09:58.408960,success,ecommerce,Credit Card,Prabumulih,100ml,6,14206,3832
+TRX909,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,8,100000,7293
+TRX910,2023-06-21 12:06:02.303253,success,ecommerce,Virtual Account,Prabumulih,100ml,6,10000,9725
+TRX911,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,10,100000,10076
+TRX912,2023-04-28 01:31:28.210361,success,distributor,Transfer,Solok,100ml,6,20606,15875
+TRX913,2023-06-06 17:02:28.668535,success,distributor,Transfer,Tangerang,1000ml,8,100000,14545
+TRX914,2023-08-19 10:18:01.475392,success,langsung,QRIS,Metro,1000ml,10,100000,11693
+TRX915,2023-06-06 17:02:28.668535,success,distributor,QRIS,Surabaya,1000ml,6,100000,10296
+TRX916,2023-06-21 12:06:02.303253,success,ecommerce,Transfer,Surabaya,1000ml,6,100000,9677
+TRX917,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,9,10000,8746
+TRX918,2023-04-28 01:31:28.210361,success,distributor,QRIS,Serang,100ml,10,23287,11136
+TRX919,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Prabumulih,250ml,8,30843,16129
+TRX920,2023-07-29 02:09:58.408960,success,distributor,QRIS,Bukittinggi,250ml,8,26468,5282
+TRX921,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Prabumulih,100ml,8,12298,16523
+TRX922,2023-04-28 01:31:28.210361,success,distributor,QRIS,Metro,100ml,8,15268,20000
+TRX923,2024-02-14 19:06:26.496695,success,distributor,Transfer,Solok,1000ml,10,31307,20000
+TRX924,2023-04-28 01:31:28.210361,success,langsung,Transfer,Bukittinggi,100ml,5,16204,3832
+TRX925,2024-03-01 10:47:58.820632,success,distributor,Transfer,Prabumulih,100ml,8,79001,7308
+TRX926,2024-01-31 22:19:16.234071,success,distributor,Transfer,Surabaya,100ml,6,90244,12784
+TRX927,2023-06-06 17:02:28.668535,success,distributor,QRIS,Surabaya,1000ml,5,100000,4780
+TRX928,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Metro,100ml,5,80418,3832
+TRX929,2023-06-21 12:06:02.303253,success,ecommerce,Transfer,Bukittinggi,1000ml,9,29886,17592
+TRX930,2023-06-06 17:02:28.668535,success,distributor,Transfer,Metro,1000ml,6,23022,8268
+TRX931,2024-03-01 10:47:58.820632,success,langsung,Transfer,Surabaya,1000ml,7,78602,6488
+TRX932,2023-06-21 12:06:02.303253,success,distributor,Credit Card,Pekalongan,250ml,9,25421,15700
+TRX933,2023-06-21 12:06:02.303253,success,langsung,QRIS,Palembang,250ml,5,27086,5751
+TRX934,2023-11-15 18:28:58.056173,success,distributor,QRIS,Palembang,1000ml,6,100000,3832
+TRX935,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Tangerang,100ml,6,20721,4504
+TRX936,2024-03-01 10:47:58.820632,success,ecommerce,QRIS,Prabumulih,250ml,7,30041,12654
+TRX937,2024-01-31 22:19:16.234071,success,ecommerce,Transfer,Bukittinggi,100ml,5,20482,3832
+TRX938,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Palembang,250ml,6,100000,7738
+TRX939,2023-07-29 02:09:58.408960,cancel,distributor,Transfer,Pekalongan,100ml,10,10000,11101
+TRX940,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Surabaya,250ml,6,42397,3832
+TRX941,2023-07-29 02:09:58.408960,success,distributor,Transfer,Palembang,250ml,5,99738,3832
+TRX942,2023-08-19 10:18:01.475392,success,langsung,QRIS,Bukittinggi,250ml,5,30147,3832
+TRX943,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Metro,250ml,6,13706,12701
+TRX944,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Bukittinggi,250ml,6,22267,6327
+TRX945,2023-06-06 17:02:28.668535,success,ecommerce,Credit Card,Metro,250ml,6,37130,7428
+TRX946,2024-02-14 19:06:26.496695,success,ecommerce,Credit Card,Metro,250ml,6,43257,4968
+TRX947,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Pekalongan,250ml,6,31783,6445
+TRX948,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Solok,100ml,8,21066,15043
+TRX949,2023-11-15 18:28:58.056173,success,ecommerce,Transfer,Metro,250ml,7,38216,11699
+TRX950,2024-01-31 22:19:16.234071,success,distributor,Transfer,Metro,1000ml,10,100000,7801
+TRX951,2023-06-06 17:02:28.668535,success,langsung,Credit Card,Surabaya,1000ml,6,23080,3832
+TRX952,2024-02-14 19:06:26.496695,success,ecommerce,Virtual Account,Tangerang,100ml,9,18194,14426
+TRX953,2024-03-01 10:47:58.820632,success,distributor,Transfer,Metro,1000ml,5,100000,3832
+TRX954,2023-04-28 01:31:28.210361,success,ecommerce,Transfer,Prabumulih,100ml,8,16065,15140
+TRX955,2023-11-15 18:28:58.056173,success,distributor,Credit Card,Tangerang,100ml,10,26771,7024
+TRX956,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,1000ml,10,10000,3832
+TRX957,2023-04-28 01:31:28.210361,success,distributor,Transfer,Surabaya,100ml,10,23838,14631
+TRX958,2023-06-21 12:06:02.303253,success,distributor,Credit Card,Palembang,100ml,9,15459,3832
+TRX959,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,9,17736,14714
+TRX960,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,7,22388,15027
+TRX961,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Tangerang,250ml,10,28804,9037
+TRX962,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Prabumulih,100ml,6,20597,4843
+TRX963,2023-06-06 17:02:28.668535,cancel,distributor,Transfer,Pekalongan,1000ml,8,43989,10722
+TRX964,2024-01-31 22:19:16.234071,cancel,distributor,Virtual Account,Pekalongan,100ml,8,10000,3902
+TRX965,2023-08-19 10:18:01.475392,cancel,distributor,Virtual Account,Surabaya,100ml,7,15933,6927
+TRX966,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Tangerang,250ml,9,30424,16832
+TRX967,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,8,11586,15826
+TRX968,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Palembang,250ml,9,40939,20000
+TRX969,2024-02-14 19:06:26.496695,success,distributor,Credit Card,Palembang,250ml,7,22288,6777
+TRX970,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,100ml,6,100000,9372
+TRX971,2023-06-06 17:02:28.668535,success,distributor,Credit Card,Palembang,1000ml,6,14685,7859
+TRX972,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Prabumulih,250ml,7,100000,6657
+TRX973,2023-07-29 02:09:58.408960,success,ecommerce,Transfer,Solok,1000ml,5,23223,8228
+TRX974,2023-07-29 02:09:58.408960,success,langsung,Credit Card,Tangerang,100ml,7,23661,3832
+TRX975,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Pekalongan,100ml,8,82599,12769
+TRX976,2024-01-31 22:19:16.234071,cancel,langsung,Virtual Account,Solok,100ml,8,19802,12384
+TRX977,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Metro,100ml,5,26514,5294
+TRX978,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Bukittinggi,100ml,6,29916,8010
+TRX979,2024-01-31 22:19:16.234071,success,ecommerce,Credit Card,Prabumulih,100ml,5,32327,3832
+TRX980,2023-04-28 01:31:28.210361,cancel,distributor,Virtual Account,Solok,250ml,9,20939,17805
+TRX981,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Palembang,250ml,7,29465,16914
+TRX982,2023-06-06 17:02:28.668535,success,distributor,Credit Card,Solok,250ml,9,25229,16532
+TRX983,2023-08-19 10:18:01.475392,success,distributor,Transfer,Palembang,100ml,5,39077,3832
+TRX984,2024-02-14 19:06:26.496695,success,distributor,Transfer,Tangerang,1000ml,10,99546,3940
+TRX985,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Palembang,100ml,5,27524,3832
+TRX986,2023-07-29 02:09:58.408960,success,ecommerce,QRIS,Bukittinggi,250ml,7,17400,6836
+TRX987,2023-08-19 10:18:01.475392,success,distributor,QRIS,Tangerang,250ml,6,28206,13357
+TRX988,2023-11-15 18:28:58.056173,success,ecommerce,Credit Card,Prabumulih,250ml,5,24579,6092
+TRX989,2024-03-01 10:47:58.820632,success,distributor,Transfer,Surabaya,1000ml,9,100000,10412
+TRX990,2023-06-06 17:02:28.668535,success,distributor,Transfer,Surabaya,1000ml,7,100000,9047
+TRX991,2024-03-01 10:47:58.820632,success,ecommerce,Credit Card,Surabaya,250ml,10,100000,19325
+TRX992,2023-07-29 02:09:58.408960,success,langsung,Credit Card,Serang,100ml,6,11868,3832
+TRX993,2023-11-15 18:28:58.056173,success,ecommerce,QRIS,Metro,250ml,7,26630,8461
+TRX994,2024-01-31 22:19:16.234071,success,ecommerce,QRIS,Bukittinggi,100ml,7,27585,7484
+TRX995,2023-06-21 12:06:02.303253,success,ecommerce,Credit Card,Surabaya,1000ml,10,29756,17360
+TRX996,2023-04-28 01:31:28.210361,success,distributor,Virtual Account,Bukittinggi,100ml,6,78818,5484
+TRX997,2023-06-21 12:06:02.303253,success,ecommerce,QRIS,Tangerang,250ml,6,39056,3832
+TRX998,2023-07-29 02:09:58.408960,cancel,distributor,Virtual Account,Pekalongan,250ml,5,19201,3832
+TRX999,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,1000ml,5,10000,3832
+TRX1000,2023-07-29 02:09:58.408960,success,langsung,QRIS,Bukittinggi,100ml,6,18650,3832
