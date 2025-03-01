@@ -1,0 +1,10 @@
+1. Siapa itu Vin Corp? dan bagaimana Vinc Corp melakukan pengambilan keputasan bisnis agar tetap relevan?
+2. Apa kegunaan Vnelia VOC? dan jelaskan kenapa saya harus menggunakannya
+3. Jelaskan kandungan teknis didalam produk Vnelia VOC?
+4. Bagaimana produk Vnelia VOC dikemas dan didistribusikan?
+5. Bagaimana saya dapat menghubungi layanan pelanggan?
+6. Jelaskan tren produk terjual pada tahun 2023 - 2024?
+7. Bagaimana umpan balik atau review dari pelanggan mengenai Vnelia VOC?
+8. Berapa total transaksi dan volume item yang diproses pada 2024-03-01?
+9. Dimanakah lokasi pelanggan pada transaksi dengan code TRX001?
+10. Apa metode pembayaran yang paling sering digunakan/populer dalam dataset transaksi? 
